@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { PageHeading } from './components';
 import { useStore } from './context';
+import DownloadPack from './DownloadPack';
 import { fetchJson } from './fetchJson';
 
 interface TopicRow {
@@ -42,6 +43,8 @@ export default function ExamSyllabus() {
       <PageHeading eyebrow={isHi ? 'परीक्षा पाठ्यक्रम' : 'Exam syllabus'} title={isHi ? 'हर परीक्षा के लिए 40 प्रश्न प्रति टॉपिक' : '40 questions per topic for every exam'}>
         {isHi ? 'हर परीक्षा के विषय, अध्याय और टॉपिक उसके पाठ्यक्रम से मैप किए गए हैं; हर टॉपिक पर 40 प्रश्न हैं।' : 'Subjects, chapters and topics are mapped from each exam syllabus; every topic carries 40 questions.'}
       </PageHeading>
+
+      <DownloadPack />
 
       {error && <p role="alert" className="card">{error}</p>}
       {!state.profile.onboarded && (

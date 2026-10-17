@@ -12,6 +12,9 @@ __pycache__/
 *.pyc
 
 *.zip
+# The finished question packs are deliverables users download directly.
+!public/downloads/kbc-40-per-topic-pack.zip
+!public/downloads/kbc-40-per-topic-csv.zip
 
 user-data/
 .syllabus-build.mjs

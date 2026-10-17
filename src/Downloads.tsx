@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { CheckCircle2, Download, HardDrive, Pause, Trash2 } from './icons';
 import { useStore } from './context';
 import { PageHeading } from './components';
+import DownloadPack from './DownloadPack';
 import { deletePack, downloadPack, downloadedPacks } from './storage';
 import type { PackMeta } from './types';
 
@@ -43,6 +44,7 @@ export default function Downloads() {
   }
 
   return <>
+    <DownloadPack compact />
     <PageHeading
       eyebrow={isHi ? 'आपकी लाइब्रेरी, आपके साथ' : 'YOUR LIBRARY, WHEREVER YOU GO'}
       title={isHi ? 'ऑफ़लाइन अध्ययन सामग्री डाउनलोड करें।' : 'Take knowledge with you.'}
