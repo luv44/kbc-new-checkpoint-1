@@ -1,0 +1,18 @@
+{
+  "videoId": "video_S07-Cd8d761ef-Tbfeeeeaf",
+  "topicId": "S07-Cd8d761ef-Tbfeeeeaf",
+  "status": "ready",
+  "targetDurationSec": 90,
+  "narrationHindi": "केंद्रीय बजट की संरचना: राजस्व घाटा, राजकोषीय घाटा एवं प्राथमिक घाटा (Union Budget Framework: Revenue Deficit, Fiscal Deficit & Primary Deficit)। प्राथमिक घाटा = राजकोषीय घाटा - ब्याज अदायगी। यह दर्शाता है कि पुराने कर्जों के ब्याज को हटाकर सरकार को वर्तमान वित्तीय वर्ष के खर्चों के लिए कितना नया कर्ज लेना पड़ रहा है। प्रमुख अवधारणाएं: अनुच्छेद 112 में बजट को 'वार्षिक वित्तीय विवरण' (Annual Financial Statement) कहा गया है। भारत की संचित निधि (अनुच्छेद 266(1)), आकस्मिकता निधि (अनुच्छेद 267), लोक लेखा (अनुच्छेद 266(2))। राजकोषीय घाटा (Fiscal Deficit) = कुल व्यय - कुल प्राप्तियां (उधारियों को छोड़कर) = सरकार का कुल नया ऋण। प्राथमिक घाटा (Primary Deficit) = राजकोषीय घाटा - ब्याज भुगतान। राजस्व घाटा = राजस्व व्यय - राजस्व प्राप्तियां। स्मरणीय सूत्र: प्राथमिक घाटा = राजकोषीय घाटा - ब्याज भुगतान।",
+  "factCardIds": [
+    "fc_S07-Cd8d761ef-Tbfeeeeaf"
+  ],
+  "learningObjectives": [
+    "concept_S07-Cd8d761ef-Tbfeeeeaf_0",
+    "concept_S07-Cd8d761ef-Tbfeeeeaf_1",
+    "concept_S07-Cd8d761ef-Tbfeeeeaf_2",
+    "concept_S07-Cd8d761ef-Tbfeeeeaf_3",
+    "concept_S07-Cd8d761ef-Tbfeeeeaf_4"
+  ],
+  "scenes": []
+}

@@ -15,3 +15,11 @@ __pycache__/
 
 user-data/
 .syllabus-build.mjs
+
+# Build outputs that can be regenerated with `npm run build:data`
+public/data/starter.json
+public/data/preserved-bank.json
+public/data/preserved-bank.json.gz
+public/data/si-unit-mcqs.json
+public/data/si-unit-mcqs.json.gz
+public/data/si-unit-mcqs.md

@@ -1,0 +1,17 @@
+{
+  "videoId": "vid_S01-C8994e811-Te3d2bcad",
+  "topicId": "S01-C8994e811-Te3d2bcad",
+  "status": "PROMPT_READY",
+  "targetDurationSec": 180,
+  "narrationHindi": "गृह मंत्रालय के आधिकारिक आंकड़ों के अनुसार, द्वीपों सहित भारत की कुल तटरेखा 7,516.6 किमी है (मुख्य भूमि 5,422.6 किमी और द्वीप समूह 2,094 किमी)।",
+  "factCardIds": [
+    "FC_S01-C8994e811-Te3d2bcad"
+  ],
+  "learningObjectives": [
+    "concept_S01-C8994e811-Te3d2bcad_0",
+    "concept_S01-C8994e811-Te3d2bcad_1",
+    "concept_S01-C8994e811-Te3d2bcad_2",
+    "concept_S01-C8994e811-Te3d2bcad_3"
+  ],
+  "scenes": []
+}

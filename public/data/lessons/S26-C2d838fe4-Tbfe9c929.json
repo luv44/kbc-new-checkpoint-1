@@ -1,0 +1,23 @@
+{
+  "videoId": "video_S26-C2d838fe4-Tbfe9c929",
+  "topicId": "S26-C2d838fe4-Tbfe9c929",
+  "status": "ready",
+  "targetDurationSec": 90,
+  "narrationHindi": "सात मूल एसआई (SI) मात्रक: मीटर, किलोग्राम, सेकंड, एम्पीयर, केल्विन, मोल एवं कैंडेला (The Seven Fundamental SI Base Units: Meter, Kilogram, Second, Ampere, Kelvin, Mole & Candela)। ज्योति तीव्रता (Luminous Intensity) का मूल एसआई मात्रक 'कैंडेला' (cd) है। (ल्यूमेन ज्योति फ्लक्स का व्युत्पन्न मात्रक है और लक्स प्रदीप्ति का मात्रक है)। प्रमुख अवधारणाएं: अंतर्राष्ट्रीय मात्रक प्रणाली (SI - International System of Units): 1960 में 11वीं सीजीपीएम (CGPM) संगोष्ठी में स्थापित मीट्रिक प्रणाली। सात मूलभूत भौतिक राशियां एवं उनके मानक एसआई मात्रक:। 1. लंबाई: मीटर (m)। 2. द्रव्यमान: किलोग्राम (kg)। 3. समय: सेकंड (s)। 4. विद्युत धारा: एम्पीयर (A)। 5. ऊष्मागतिक तापमान: केल्विन (K - ध्यान दें: केल्विन के साथ डिग्री ° नहीं लगाया जाता; परम शून्य ताप = 0 K = -273.15 °C)। 6. पदार्थ की मात्रा: मोल (mol)। 7. ज्योति तीव्रता (Luminous Intensity): कैंडेला (cd)। दो संपूरक मात्रक: रेडियन (rad - समतल कोण) एवं स्टेरेडियन (sr - ठोस/घन कोण)। स्मरणीय सूत्र: ज्योति तीव्रता का एसआई मात्रक = कैंडेला (cd)।",
+  "factCardIds": [
+    "fc_S26-C2d838fe4-Tbfe9c929"
+  ],
+  "learningObjectives": [
+    "concept_S26-C2d838fe4-Tbfe9c929_0",
+    "concept_S26-C2d838fe4-Tbfe9c929_1",
+    "concept_S26-C2d838fe4-Tbfe9c929_2",
+    "concept_S26-C2d838fe4-Tbfe9c929_3",
+    "concept_S26-C2d838fe4-Tbfe9c929_4",
+    "concept_S26-C2d838fe4-Tbfe9c929_5",
+    "concept_S26-C2d838fe4-Tbfe9c929_6",
+    "concept_S26-C2d838fe4-Tbfe9c929_7",
+    "concept_S26-C2d838fe4-Tbfe9c929_8",
+    "concept_S26-C2d838fe4-Tbfe9c929_9"
+  ],
+  "scenes": []
+}

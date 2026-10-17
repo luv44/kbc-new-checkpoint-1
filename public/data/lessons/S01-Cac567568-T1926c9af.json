@@ -1,0 +1,17 @@
+{
+  "videoId": "vid_S01-Cac567568-T1926c9af",
+  "topicId": "S01-Cac567568-T1926c9af",
+  "status": "PROMPT_READY",
+  "targetDurationSec": 180,
+  "narrationHindi": "हिमाचल प्रदेश में तांडी के पास चंद्रा और भागा नदियों के संगम से बनने वाली चिनाब (चंद्रभागा) नदी, सिंधु की सबसे बड़ी सहायक नदी है।",
+  "factCardIds": [
+    "FC_S01-Cac567568-T1926c9af"
+  ],
+  "learningObjectives": [
+    "concept_S01-Cac567568-T1926c9af_0",
+    "concept_S01-Cac567568-T1926c9af_1",
+    "concept_S01-Cac567568-T1926c9af_2",
+    "concept_S01-Cac567568-T1926c9af_3"
+  ],
+  "scenes": []
+}

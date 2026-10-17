@@ -1,0 +1,17 @@
+{
+  "videoId": "vid_S01-Cac567568-T0c81bfa6",
+  "topicId": "S01-Cac567568-T0c81bfa6",
+  "status": "PROMPT_READY",
+  "targetDurationSec": 180,
+  "narrationHindi": "सतलुज नदी हिमाचल प्रदेश के किन्नौर जिले में स्थित शिपकी ला दर्रे से होकर तिब्बत से भारत में प्रवेश करती है।",
+  "factCardIds": [
+    "FC_S01-Cac567568-T0c81bfa6"
+  ],
+  "learningObjectives": [
+    "concept_S01-Cac567568-T0c81bfa6_0",
+    "concept_S01-Cac567568-T0c81bfa6_1",
+    "concept_S01-Cac567568-T0c81bfa6_2",
+    "concept_S01-Cac567568-T0c81bfa6_3"
+  ],
+  "scenes": []
+}

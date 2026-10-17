@@ -1,0 +1,17 @@
+{
+  "videoId": "vid_S01-Cac567568-Td6b3a21e",
+  "topicId": "S01-Cac567568-Td6b3a21e",
+  "status": "PROMPT_READY",
+  "targetDurationSec": 180,
+  "narrationHindi": "केरल की अनाइमलाई पहाड़ियों में स्थित अनाइमुडी (2,695 मीटर) प्रायद्वीपीय भारत और पश्चिमी घाट की सर्वोच्च पर्वत चोटी है।",
+  "factCardIds": [
+    "FC_S01-Cac567568-Td6b3a21e"
+  ],
+  "learningObjectives": [
+    "concept_S01-Cac567568-Td6b3a21e_0",
+    "concept_S01-Cac567568-Td6b3a21e_1",
+    "concept_S01-Cac567568-Td6b3a21e_2",
+    "concept_S01-Cac567568-Td6b3a21e_3"
+  ],
+  "scenes": []
+}

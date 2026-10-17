@@ -1,0 +1,677 @@
+[
+  {
+    "subjectId": "S01",
+    "subjectName": "India Basics & Physical Geography (भारत का भूगोल और भौतिक विशेषताएं)",
+    "chapter": "Geographical Location, Borders & Extremities (भौगोलिक अवस्थिति, सीमाएं एवं सुदूरतम बिंदु)",
+    "topicId": "S01-C8994e811-T60e40ec2",
+    "topicName": "Southern Extremity of India: Indira Point vs Cape Comorin (भारत का दक्षिणतम बिंदु)",
+    "questionId": "Q-S01-001",
+    "question_en": "Which geographical location represents the southernmost point of the Republic of India as a whole (including its island territories)?",
+    "question_hi": "भारत गणराज्य के समग्र क्षेत्र (द्वीपीय क्षेत्रों सहित) का सबसे दक्षिणतम बिंदु कौन-सा है?",
+    "options_en": [
+      "Cape Comorin (Kanyakumari)",
+      "Indira Point (Great Nicobar Island)",
+      "Kavarrati Island",
+      "Minicoy Island"
+    ],
+    "options_hi": [
+      "केप कोमोरिन (कन्याकुमारी)",
+      "इंदिरा पॉइंट (ग्रेट निकोबार द्वीप)",
+      "कवरत्ती द्वीप",
+      "मिनिकॉय द्वीप"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Indira Point (formerly Pygmalion Point), situated at 6°45' N latitude on Great Nicobar Island, is the southernmost point of the Indian Union. Cape Comorin (8°4' N) is the southernmost point of the Indian mainland only.",
+    "explanation_hi": "इंदिरा पॉइंट (पूर्व में पिग्मेलियन पॉइंट), जो ग्रेट निकोबार द्वीप पर 6°45' उत्तरी अक्षांश पर स्थित है, भारतीय संघ का सबसे दक्षिणतम बिंदु है। केप कोमोरिन (8°4' उ.) केवल मुख्य भूमि का दक्षिणतम बिंदु है।"
+  },
+  {
+    "subjectId": "S01",
+    "subjectName": "India Basics & Physical Geography",
+    "chapter": "Geographical Location, Borders & Extremities",
+    "topicId": "S01-C8994e811-T3e34ee56",
+    "topicName": "Northern & Eastern Extremities: Indira Col & Kibithu",
+    "questionId": "Q-S01-002",
+    "question_en": "Which of the following locations marks the easternmost point of Indian sovereign territory?",
+    "question_hi": "निम्नलिखित में से कौन-सा स्थान भारत के संप्रभु क्षेत्र का सबसे पूर्वी बिंदु है?",
+    "options_en": [
+      "Ghuar Moti (Gujarat)",
+      "Kibithu (Arunachal Pradesh)",
+      "Indira Col (Ladakh)",
+      "Tawang (Arunachal Pradesh)"
+    ],
+    "options_hi": [
+      "गुहार मोती (गुजरात)",
+      "किबिथू (अरुणाचल प्रदेश)",
+      "इंदिरा कोल (लद्दाख)",
+      "तवांग (अरुणाचल प्रदेश)"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Kibithu in the Anjaw district of Arunachal Pradesh (at approximately 97°25' E longitude) is the easternmost inhabited town and point of India.",
+    "explanation_hi": "अरुणाचल प्रदेश के अंजॉ जिले में स्थित किबिथू (लगभग 97°25' पूर्वी देशांतर पर) भारत का सबसे पूर्वी बसा हुआ बिंदु है।"
+  },
+  {
+    "subjectId": "S02",
+    "subjectName": "Current Affairs & Contemporary Events (समसामयिक घटनाक्रम)",
+    "chapter": "Science, Technology, Defence & Space Developments",
+    "topicId": "S02-C4b3f8fdc-T125d28b6",
+    "topicName": "India's Space Exploration: Chandrayaan-3 Landing Site",
+    "questionId": "Q-S02-001",
+    "question_en": "What official name was designated by India for the lunar touchdown site of the Chandrayaan-3 Vikram lander near the lunar south pole?",
+    "question_hi": "चंद्रमा के दक्षिणी ध्रुव के समीप चंद्रयान-3 के विक्रम लैंडर के सॉफ्ट लैंडिंग स्थल को भारत सरकार द्वारा क्या आधिकारिक नाम दिया गया?",
+    "options_en": [
+      "Tiranga Point",
+      "Shiv Shakti Point",
+      "Jawahar Sthal",
+      "Atal Point"
+    ],
+    "options_hi": [
+      "तिरंगा पॉइंट",
+      "शिव शक्ति पॉइंट",
+      "जवाहर स्थल",
+      "अटल पॉइंट"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "On August 26, 2023, the Prime Minister announced that the Chandrayaan-3 landing point on the Moon's southern polar region is named 'Shiv Shakti Point', while the Chandrayaan-2 impact site is called 'Tiranga Point'.",
+    "explanation_hi": "26 अगस्त 2023 को घोषणा की गई कि चंद्रयान-3 के लैंडिंग स्थल को 'शिव शक्ति पॉइंट' कहा जाएगा, जबकि चंद्रयान-2 के क्रैश स्थल को 'तिरंगा पॉइंट' नाम दिया गया।"
+  },
+  {
+    "subjectId": "S03",
+    "subjectName": "Ancient Indian History & Archaeology (प्राचीन भारत का इतिहास)",
+    "chapter": "Indus Valley Civilization & Harappan Sites",
+    "topicId": "S03-Cf57dd5c3-T160839f2",
+    "topicName": "Harappan Urban Planning: The Great Bath & Dockyards",
+    "questionId": "Q-S03-001",
+    "question_en": "At which major Indus Valley Civilization archaeological site was the monumental 'Great Bath' constructed with bitumen waterproofing discovered?",
+    "question_hi": "सिंधु घाटी सभ्यता के किस प्रमुख पुरातात्विक स्थल पर बिटुमेन वॉटरप्रूफिंग से निर्मित विशाल स्नानागार (Great Bath) खोजा गया?",
+    "options_en": [
+      "Harappa",
+      "Mohenjo-daro",
+      "Lothal",
+      "Kalibangan"
+    ],
+    "options_hi": [
+      "हड़प्पा",
+      "मोहनजोदड़ो",
+      "लोथल",
+      "कालीबंगा"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The Great Bath is one of the most famous structures among the ruins of the ancient Indus Valley Civilization at Mohenjo-daro in Sindh (UNESCO World Heritage Site No. 138).",
+    "explanation_hi": "विशाल स्नानागार (Great Bath) मोहनजोदड़ो (सिंध) के सिटाडेल टीले पर स्थित ईंटों से निर्मित एक प्रसिद्ध स्नानागार है, जिसमें पानी के रिसाव को रोकने के लिए प्राकृतिक बिटुमेन का लेप किया गया था।"
+  },
+  {
+    "subjectId": "S04",
+    "subjectName": "Medieval & Modern Indian History (मध्यकालीन एवं आधुनिक इतिहास)",
+    "chapter": "Mughal Empire: Administration & Monuments",
+    "topicId": "S04-C511c1907-T85fc68d9",
+    "topicName": "Mughal Land Revenue & Mansabdari System under Akbar",
+    "questionId": "Q-S04-001",
+    "question_en": "Who among the following was the finance minister under Mughal Emperor Akbar responsible for formulating the land revenue measurement system known as 'Zabt' or 'Dahsala'?",
+    "question_hi": "मुगल सम्राट अकबर के शासनकाल में 'ज़ब्त' या 'दहसाला' नामक भू-राजस्व प्रणाली तैयार करने वाले वित्त मंत्री कौन थे?",
+    "options_en": [
+      "Raja Man Singh",
+      "Raja Todar Mal",
+      "Abul Fazl",
+      "Birbal"
+    ],
+    "options_hi": [
+      "राजा मान सिंह",
+      "राजा टोडर मल",
+      "अबुल फज़ल",
+      "बीरबल"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Raja Todar Mal introduced the standard system of land revenue assessment called 'Ain-i-Dahsala' in 1580 CE, which calculated average production and prices over a ten-year period.",
+    "explanation_hi": "राजा टोडर मल ने 1580 ईस्वी में 'आईन-ए-दहसाला' प्रणाली शुरू की, जिसके अंतर्गत पिछले दस वर्षों के औसत उत्पादन और मूल्यों के आधार पर भू-राजस्व का निर्धारण किया जाता था।"
+  },
+  {
+    "subjectId": "S05",
+    "subjectName": "Indian Polity & Constitutional Framework (भारतीय राजव्यवस्था एवं संविधान)",
+    "chapter": "Fundamental Rights & Constitutional Remedies",
+    "topicId": "S05-C4d9a5be9-Ta42bcf2e",
+    "topicName": "Right to Constitutional Remedies (Article 32) & Writs",
+    "questionId": "Q-S05-001",
+    "question_en": "Which prerogative writ issued by the Supreme Court of India under Article 32 literally translates to 'We Command' and compels a public official to perform a statutory duty?",
+    "question_hi": "भारतीय संविधान के अनुच्छेद 32 के तहत सर्वोच्च न्यायालय द्वारा जारी की जाने वाली कौन-सी रिट का शाब्दिक अर्थ 'हम आदेश देते हैं' (We Command) होता है?",
+    "options_en": [
+      "Habeas Corpus",
+      "Mandamus",
+      "Quo-Warranto",
+      "Certiorari"
+    ],
+    "options_hi": [
+      "बंदी प्रत्यक्षीकरण (Habeas Corpus)",
+      "परमादेश (Mandamus)",
+      "अधिकार पृच्छा (Quo-Warranto)",
+      "उत्प्रेषण (Certiorari)"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Mandamus is a Latin word meaning 'we command'. It is an order issued by a superior court to any government, court, corporation, or public authority to perform a specified official duty that they are obligated by law to perform.",
+    "explanation_hi": "परमादेश (Mandamus) एक लैटिन शब्द है जिसका अर्थ है 'हम आदेश देते हैं'। यह किसी सार्वजनिक अधिकारी या संस्था को अपने विधिक कर्तव्यों का पालन करने के लिए बाध्य करने हेतु जारी किया जाता है।"
+  },
+  {
+    "subjectId": "S06",
+    "subjectName": "Governance, Panchayati Raj & Union Administration (पंचायती राज एवं स्थानीय शासन)",
+    "chapter": "Panchayati Raj System (Part IX, 73rd Amendment)",
+    "topicId": "S06-Cbd122131-Tabe7f08b",
+    "topicName": "Three-Tier Structure of Panchayats: Article 243B & Schedule 11",
+    "questionId": "Q-S06-001",
+    "question_en": "Under Article 243B of the Constitution of India, which tier of Panchayati Raj may not be constituted in a State having a population not exceeding twenty lakhs?",
+    "question_hi": "भारतीय संविधान के अनुच्छेद 243B के तहत, 20 लाख से कम जनसंख्या वाले राज्य में पंचायती राज के किस स्तर का गठन न करने की छूट है?",
+    "options_en": [
+      "Gram Panchayat (Village level)",
+      "Panchayat at the intermediate level (Block level)",
+      "Zila Parishad (District level)",
+      "Gram Sabha"
+    ],
+    "options_hi": [
+      "ग्राम पंचायत (ग्राम स्तर)",
+      "मध्यवर्ती स्तर की पंचायत (ब्लॉक स्तर)",
+      "जिला परिषद (जिला स्तर)",
+      "ग्राम सभा"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Article 243B(2) states that Panchayats at the intermediate level may not be constituted in a State having a population not exceeding twenty lakhs.",
+    "explanation_hi": "अनुच्छेद 243B(2) के अनुसार, जिस राज्य की जनसंख्या बीस लाख से अधिक नहीं है, वहां मध्यवर्ती स्तर (ब्लॉक स्तर) पर पंचायत का गठन अनिवार्य नहीं है।"
+  },
+  {
+    "subjectId": "S07",
+    "subjectName": "Indian Economy, Banking & Public Finance (भारतीय अर्थव्यवस्था एवं बैंकिंग)",
+    "chapter": "Reserve Bank of India & Monetary Policy",
+    "topicId": "S07-Cef3bcdf8-T8d2ac8b5",
+    "topicName": "Monetary Policy Committee (MPC) & Repo Rate Mechanism",
+    "questionId": "Q-S07-001",
+    "question_en": "How many members constitute the Monetary Policy Committee (MPC) of the Reserve Bank of India, and who serves as its ex-officio Chairperson?",
+    "question_hi": "भारतीय रिज़र्व बैंक की मौद्रिक नीति समिति (MPC) में कुल कितने सदस्य होते हैं, तथा इसका पदेन अध्यक्ष कौन होता है?",
+    "options_en": [
+      "5 members, Union Finance Minister",
+      "6 members, Governor of the RBI",
+      "7 members, Chief Economic Adviser",
+      "4 members, Deputy Governor of RBI"
+    ],
+    "options_hi": [
+      "5 सदस्य, केंद्रीय वित्त मंत्री",
+      "6 सदस्य, भारतीय रिज़र्व बैंक के गवर्नर",
+      "7 सदस्य, मुख्य आर्थिक सलाहकार",
+      "4 सदस्य, आरबीआई के डिप्टी गवर्नर"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The Monetary Policy Committee (MPC) consists of 6 members: three from the RBI (including the RBI Governor as ex-officio Chairperson) and three external members appointed by the Central Government.",
+    "explanation_hi": "मौद्रिक नीति समिति (MPC) में कुल 6 सदस्य होते हैं (3 आरबीआई से और 3 केंद्र सरकार द्वारा नामित), तथा आरबीआई के गवर्नर इसके पदेन अध्यक्ष होते हैं।"
+  },
+  {
+    "subjectId": "S08",
+    "subjectName": "World Geography & Physical Landforms (विश्व भूगोल एवं भू-आकृतियां)",
+    "chapter": "Oceanography: Relief, Currents & Salinity",
+    "topicId": "S08-C062cef1d-T5e361578",
+    "topicName": "Warm vs Cold Ocean Currents: Gulf Stream & Benguela",
+    "questionId": "Q-S08-001",
+    "question_en": "Which of the following ocean currents is a warm western boundary current flowing along the eastern coast of the United States?",
+    "question_hi": "निम्नलिखित में से कौन-सी समुद्री धारा संयुक्त राज्य अमेरिका के पूर्वी तट के सहारे बहने वाली एक तीव्र गर्म जलधारा है?",
+    "options_en": [
+      "California Current",
+      "Canary Current",
+      "Gulf Stream",
+      "Labrador Current"
+    ],
+    "options_hi": [
+      "कैलिफ़ोर्निया धारा",
+      "कैनरी धारा",
+      "गल्फ स्ट्रीम",
+      "लैब्राडोर धारा"
+    ],
+    "correctIndex": 2,
+    "explanation_en": "The Gulf Stream is an intense, warm ocean current in the western North Atlantic Ocean, originating in the Gulf of Mexico and transporting warm water toward northwestern Europe.",
+    "explanation_hi": "गल्फ स्ट्रीम उत्तरी अटलांटिक महासागर में मेक्सिको की खाड़ी से निकलकर उत्तर-पूर्व की ओर बहने वाली एक शक्तिशाली गर्म समुद्री जलधारा है।"
+  },
+  {
+    "subjectId": "S09",
+    "subjectName": "Environment, Ecology & Biodiversity (पर्यावरण एवं पारिस्थितिकी)",
+    "chapter": "Ecosystem Concepts, Food Chains & Trophic Levels",
+    "topicId": "S09-C3ee11016-Tf99f996d",
+    "topicName": "Energy Flow & Lindeman's Ten Percent Law",
+    "questionId": "Q-S09-001",
+    "question_en": "According to Raymond Lindeman's Ten Percent Law in ecology, how much energy is transferred from one trophic level to the next higher trophic level?",
+    "question_hi": "पारिस्थितिकी में रेमंड लिंडेमैन के 10 प्रतिशत नियम के अनुसार, एक पोषण स्तर से अगले उच्च पोषण स्तर में कितनी ऊर्जा स्थानांतरित होती है?",
+    "options_en": [
+      "Approximately 1%",
+      "Approximately 10%",
+      "Approximately 50%",
+      "Approximately 90%"
+    ],
+    "options_hi": [
+      "लगभग 1%",
+      "लगभग 10%",
+      "लगभग 50%",
+      "लगभग 90%"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Raymond Lindeman (1942) established that during energy transfer from an organic food source to a consumer, only about 10% of the energy is stored as flesh/biomass; the rest is lost in metabolic respiration and heat.",
+    "explanation_hi": "1942 में लिंडेमैन द्वारा प्रतिपादित 10% नियम के अनुसार, प्रत्येक पोषण स्तर पर उपलब्ध कुल ऊर्जा का केवल लगभग 10% भाग ही अगले पोषण स्तर के जीवों को प्राप्त होता है।"
+  },
+  {
+    "subjectId": "S10",
+    "subjectName": "General Science: Physics (सामान्य विज्ञान: भौतिक विज्ञान)",
+    "chapter": "Optics & Electromagnetic Spectrum",
+    "topicId": "S10-C0f1997cd-T3aec55aa",
+    "topicName": "Total Internal Reflection: Optical Fibres & Mirage",
+    "questionId": "Q-S10-001",
+    "question_en": "On which optical phenomenon does the transmission of light signals through high-speed telecommunication optical fiber cables depend?",
+    "question_hi": "ऑप्टिकल फाइबर केबलों के माध्यम से प्रकाश संकेतों का संचरण किस प्रकाशीय परिघटना पर आधारित होता है?",
+    "options_en": [
+      "Optical Dispersion",
+      "Total Internal Reflection",
+      "Diffuse Scattering",
+      "Polarization of Light"
+    ],
+    "options_hi": [
+      "वर्ण विक्षेपण",
+      "पूर्ण आंतरिक परावर्तन (Total Internal Reflection)",
+      "प्रकाश का प्रकीर्णन",
+      "प्रकाश का ध्रुवण"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Optical fibers work on the principle of Total Internal Reflection (TIR). Light entering the denser glass core at an angle greater than the critical angle undergoes repeated internal reflection without loss.",
+    "explanation_hi": "ऑप्टिकल फाइबर 'पूर्ण आंतरिक परावर्तन' के सिद्धांत पर कार्य करते हैं, जिसमें प्रकाश किरण कोर-क्लैडिंग सीमा पर क्रांतिक कोण से अधिक कोण पर टकराकर पूर्णतः परावर्तित होती है।"
+  },
+  {
+    "subjectId": "S11",
+    "subjectName": "General Science: Chemistry (सामान्य विज्ञान: रसायन विज्ञान)",
+    "chapter": "Acids, Bases, Salts & pH Scale",
+    "topicId": "S11-C917a7c20-Tde2c2dcf",
+    "topicName": "pH Scale & Sorensen's Definition of Hydronium Concentration",
+    "questionId": "Q-S11-001",
+    "question_en": "What is the pH value of pure neutral water at a standard laboratory temperature of 25°C (298 K)?",
+    "question_hi": "मानक प्रयोगशाला तापमान 25°C (298 K) पर शुद्ध उदासीन जल का pH मान कितना होता है?",
+    "options_en": [
+      "0",
+      "7.0",
+      "14.0",
+      "1.0"
+    ],
+    "options_hi": [
+      "0",
+      "7.0",
+      "14.0",
+      "1.0"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "At 25°C, pure water has equal concentrations of H+ and OH- ions (10^-7 mol/L), yielding a neutral pH of exactly -log10(10^-7) = 7.0.",
+    "explanation_hi": "25°C पर शुद्ध जल में H+ और OH- आयनों की सांद्रता समान (10^-7 मोल/लीटर) होती है, इसलिए इसका pH मान ठीक 7.0 (उदासीन) होता है।"
+  },
+  {
+    "subjectId": "S12",
+    "subjectName": "General Science: Biology & Human Physiology (जीव विज्ञान एवं मानव कार्यिकी)",
+    "chapter": "Circulatory System & Blood Components",
+    "topicId": "S12-C7b539aa0-Tac739dcc",
+    "topicName": "Human Blood Groups: ABO System & Universal Donor",
+    "questionId": "Q-S12-001",
+    "question_en": "Which human blood group is known as the 'universal red blood cell donor' because its erythrocytes lack both A and B antigens as well as the Rh factor?",
+    "question_hi": "मानव रक्त समूहों में किस रक्त समूह को 'सर्वदाता' (Universal Donor) कहा जाता है क्योंकि इसकी लाल रक्त कणिकाओं में A और B प्रतिजन तथा Rh कारक दोनों अनुपस्थित होते हैं?",
+    "options_en": [
+      "AB Positive (AB+)",
+      "AB Negative (AB-)",
+      "O Negative (O-)",
+      "O Positive (O+)"
+    ],
+    "options_hi": [
+      "AB पॉजिटिव (AB+)",
+      "AB नेगेटिव (AB-)",
+      "O नेगेटिव (O-)",
+      "O पॉजिटिव (O+)"
+    ],
+    "correctIndex": 2,
+    "explanation_en": "O negative (O-) red blood cells have neither A nor B antigens, nor the Rh(D) antigen on their surface, making them safe for transfusion into any recipient in emergency conditions.",
+    "explanation_hi": "O नेगेटिव (O-) रक्त में कोई A या B एंटीजन नहीं होता और न ही Rh कारक होता है, जिससे यह किसी भी व्यक्ति को आपातकाल में दिया जा सकता है।"
+  },
+  {
+    "subjectId": "S13",
+    "subjectName": "Information Technology & Computer Science (सूचना प्रौद्योगिकी एवं कंप्यूटर)",
+    "chapter": "Networking, TCP/IP & Domain Name System",
+    "topicId": "S13-C21e5550f-T3f206ef3",
+    "topicName": "Domain Name System (RFC 1034) & Hierarchical Resolution",
+    "questionId": "Q-S13-001",
+    "question_en": "Under foundational Internet standard RFC 1034, what is the primary function of the Domain Name System (DNS)?",
+    "question_hi": "इंटरनेट मानक RFC 1034 के अनुसार, डोमेन नेम सिस्टम (DNS) का प्राथमिक कार्य क्या है?",
+    "options_en": [
+      "Encrypting web traffic across routers",
+      "Translating human-readable hostnames into numerical IP addresses",
+      "Allocating bandwidth for video streaming",
+      "Managing physical Ethernet cable connections"
+    ],
+    "options_hi": [
+      "राउटर के माध्यम से वेब ट्रैफ़िक को एन्क्रिप्ट करना",
+      "मानव-पठनीय डोमेन नामों को संख्यात्मक आईपी पतों में परिवर्तित करना",
+      "वीडियो स्ट्रीमिंग के लिए बैंडविड्थ आवंटित करना",
+      "भौतिक ईथरनेट केबल कनेक्शन प्रबंधित करना"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "RFC 1034 defines the Domain Name System as a distributed, hierarchical database that maps human-friendly host names (such as www.example.com) to machine-routable IP addresses.",
+    "explanation_hi": "DNS का मुख्य कार्य मानव द्वारा याद रखने योग्य वेबसाइट नामों (जैसे www.gov.in) को कंप्यूटर द्वारा समझे जाने वाले आईपी पते (जैसे 164.100.x.x) में अनुवादित करना है।"
+  },
+  {
+    "subjectId": "S14",
+    "subjectName": "Space Science, Astronomy & Exploration (अंतरिक्ष विज्ञान एवं खगोलिकी)",
+    "chapter": "The Solar System, Planets & Sun",
+    "topicId": "S14-Cc877e372-T2271ce30",
+    "topicName": "The Solar Atmosphere: Photosphere, Chromosphere & Corona",
+    "questionId": "Q-S14-001",
+    "question_en": "Which outermost layer of the Sun's atmosphere has temperatures exceeding a million Kelvin and is visibly prominent during a total solar eclipse?",
+    "question_hi": "सूर्य के वायुमंडल की सबसे बाहरी परत कौन-सी है, जिसका तापमान 10 लाख केल्विन से अधिक होता है और जो पूर्ण सूर्य ग्रहण के दौरान स्पष्ट दिखाई देती है?",
+    "options_en": [
+      "Photosphere",
+      "Chromosphere",
+      "Corona",
+      "Radiative Zone"
+    ],
+    "options_hi": [
+      "प्रकाशमंडल (Photosphere)",
+      "वर्णमंडल (Chromosphere)",
+      "कोरोना (Corona / किरीट)",
+      "विकिरण क्षेत्र (Radiative Zone)"
+    ],
+    "correctIndex": 2,
+    "explanation_en": "The solar corona is the tenuous outermost layer of the solar atmosphere. It extends millions of kilometers into space and exhibits extreme temperatures of 1 to 3 million Kelvin.",
+    "explanation_hi": "कोरोना (किरीट) सूर्य के वायुमंडल की सबसे बाह्य परत है। इसका तापमान 10 से 30 लाख केल्विन तक होता है और यह पूर्ण सूर्य ग्रहण के समय मुकुट के समान चमकती है।"
+  },
+  {
+    "subjectId": "S15",
+    "subjectName": "World History & Major Revolutions (विश्व इतिहास)",
+    "chapter": "American Revolution & Declaration of Independence",
+    "topicId": "S15-C4a2b9352-Tcea0912b",
+    "topicName": "The Declaration of Independence (1776) & Inalienable Rights",
+    "questionId": "Q-S15-001",
+    "question_en": "In what historic year did the Continental Congress adopt the United States Declaration of Independence drafted primarily by Thomas Jefferson?",
+    "question_hi": "किस ऐतिहासिक वर्ष में थॉमस जेफरसन द्वारा प्रारूपित संयुक्त राज्य अमेरिका के स्वतंत्रता घोषणा पत्र को औपचारिक रूप से स्वीकार किया गया था?",
+    "options_en": [
+      "1765",
+      "1776",
+      "1789",
+      "1804"
+    ],
+    "options_hi": [
+      "1765",
+      "1776",
+      "1789",
+      "1804"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The United States Declaration of Independence was unanimously adopted by the Second Continental Congress in Philadelphia on July 4, 1776.",
+    "explanation_hi": "4 जुलाई 1776 को फिलाडेल्फिया में आयोजित द्वितीय कॉन्टिनेंटल कांग्रेस ने अमेरिकी स्वतंत्रता की ऐतिहासिक घोषणा को अंगीकार किया था।"
+  },
+  {
+    "subjectId": "S16",
+    "subjectName": "International Organizations & Treaties (अंतर्राष्ट्रीय संगठन)",
+    "chapter": "United Nations Charter & Principal Organs",
+    "topicId": "S16-Cb8158434-T204496ed",
+    "topicName": "UN Charter: Purposes, Principles & Security Council Permanent Members",
+    "questionId": "Q-S16-001",
+    "question_en": "According to Chapter V (Article 23) of the United Nations Charter, how many permanent members compose the UN Security Council (P5)?",
+    "question_hi": "संयुक्त राष्ट्र चार्टर के अध्याय V (अनुच्छेद 23) के अनुसार, संयुक्त राष्ट्र सुरक्षा परिषद (UNSC) में कितने स्थायी सदस्य (P5) होते हैं?",
+    "options_en": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "options_hi": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Article 23 of the UN Charter establishes five permanent members of the Security Council: China, France, the Russian Federation (formerly USSR), the United Kingdom, and the United States.",
+    "explanation_hi": "संयुक्त राष्ट्र चार्टर के अनुच्छेद 23 के अनुसार सुरक्षा परिषद में 5 स्थायी सदस्य (चीन, फ्रांस, रूस, ब्रिटेन, अमेरिका) और 10 अस्थायी सदस्य होते हैं।"
+  },
+  {
+    "subjectId": "S17",
+    "subjectName": "Indian Art, Architecture & Cultural Heritage (भारतीय कला एवं स्थापत्य)",
+    "chapter": "Temple Architecture: Nagara, Dravida & Vesara",
+    "topicId": "S17-C47d03ca3-T28de89d3",
+    "topicName": "Structural Elements: Shikhara, Vimana & Garbhagriha",
+    "questionId": "Q-S17-001",
+    "question_en": "In classical Indian temple architecture, what term denotes the innermost sanctum sanctorum where the principal deity's idol is housed?",
+    "question_hi": "भारतीय मंदिर स्थापत्य में उस अंतरतम गर्भगृह को क्या कहा जाता है जहां मुख्य आराध्य देव की प्रतिमा स्थापित की जाती है?",
+    "options_en": [
+      "Mandapa",
+      "Garbhagriha",
+      "Gopuram",
+      "Amalaka"
+    ],
+    "options_hi": [
+      "मंडप (Mandapa)",
+      "गर्भगृह (Garbhagriha)",
+      "गोपुरम (Gopuram)",
+      "आमलक (Amalaka)"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The Garbhagriha (literally 'womb-chamber') is the innermost sanctuary of a Hindu temple where the presiding murti (idol) of the deity is installed.",
+    "explanation_hi": "गर्भगृह हिन्दू मंदिर का सबसे पवित्र एवं केंद्रीय भाग होता है जहां मुख्य देवता की प्रतिमा स्थापित होती है।"
+  },
+  {
+    "subjectId": "S18",
+    "subjectName": "World & Indian Literature (विश्व एवं भारतीय साहित्य)",
+    "chapter": "Modern Indian Literature & Nobel Laureates",
+    "topicId": "S18-Cd793f594-Tdcec6f98",
+    "topicName": "Rabindranath Tagore & The 1913 Nobel Prize in Literature",
+    "questionId": "Q-S18-001",
+    "question_en": "For which celebrated collection of lyrical poetry was Rabindranath Tagore awarded the Nobel Prize in Literature in 1913, becoming the first Asian Nobel laureate?",
+    "question_hi": "रवींद्रनाथ टैगोर को 1913 में किस प्रसिद्ध काव्य संग्रह के लिए साहित्य का नोबेल पुरस्कार प्रदान किया गया, जिससे वे नोबेल पाने वाले पहले एशियाई बने?",
+    "options_en": [
+      "Gora",
+      "Gitanjali (Song Offerings)",
+      "Ghare Baire",
+      "Chokher Bali"
+    ],
+    "options_hi": [
+      "गोरा",
+      "गीतांजलि (Gitanjali)",
+      "घरे बाइरे",
+      "चोखेर बाली"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Rabindranath Tagore won the 1913 Nobel Prize in Literature for 'Gitanjali' (Song Offerings), recognized for its profoundly sensitive, fresh and beautiful verse.",
+    "explanation_hi": "रवींद्रनाथ टैगोर को उनकी कालजयी काव्यकृति 'गीतांजलि' के अंग्रेजी अनुवाद के लिए 1913 में साहित्य का नोबेल पुरस्कार प्रदान किया गया था।"
+  },
+  {
+    "subjectId": "S19",
+    "subjectName": "Sports, Games & International Championships (खेलकूद एवं प्रतियोगिताएं)",
+    "chapter": "Chess Regulations & FIDE Laws",
+    "topicId": "S19-C8da61983-T1b4ed8e8",
+    "topicName": "FIDE Laws of Chess (2023): Castling Conditions & En Passant",
+    "questionId": "Q-S19-001",
+    "question_en": "Under the official FIDE Laws of Chess, which condition strictly invalidates the right of a player to castle on a given side?",
+    "question_hi": "शतरंज के आधिकारिक FIDE नियमों के अनुसार, निम्नलिखित में से कौन-सी स्थिति खिलाड़ी के कैसलिंग (Castling) करने के अधिकार को समाप्त कर देती है?",
+    "options_en": [
+      "The player's Queen has already moved",
+      "The King or the chosen Rook has previously moved in the game",
+      "A Bishop is positioned on an adjacent diagonal",
+      "The opponent has given check on a previous turn"
+    ],
+    "options_hi": [
+      "खिलाड़ी का वज़ीर (Queen) पहले चल चुका हो",
+      "राजा (King) या संबंधित हाथी (Rook) खेल में पहले ही अपनी जगह से हिल चुका हो",
+      "ऊंट पास के विकर्ण पर स्थित हो",
+      "विपक्षी ने पिछली चाल में शह (Check) दी थी"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Article 3.8 of the FIDE Laws of Chess states that castling is permanently illegal if the king has already moved, or with a rook that has already moved.",
+    "explanation_hi": "FIDE नियम 3.8 के अनुसार, यदि राजा या वह हाथी जिससे कैसलिंग की जानी है, खेल में पहले एक बार भी चल चुका हो, तो कैसलिंग की अनुमति नहीं होती।"
+  },
+  {
+    "subjectId": "S20",
+    "subjectName": "Cinema, Theatre & Performing Arts (सिनेमा एवं रंगमंच)",
+    "chapter": "Origins & Technical Milestones of Cinema",
+    "topicId": "S20-C8dd4bb3c-T107bcafb",
+    "topicName": "Lumière Brothers Cinematographe & Indian Feature Film 'Raja Harishchandra'",
+    "questionId": "Q-S20-001",
+    "question_en": "Which 1913 landmark silent film directed by Dadasaheb Phalke is universally recognized as the first full-length Indian indigenous feature film?",
+    "question_hi": "दादासाहेब फाल्के द्वारा निर्देशित वर्ष 1913 की किस ऐतिहासिक मूक फिल्म को भारत की पहली पूर्ण लंबाई वाली स्वदेशी फीचर फिल्म माना जाता है?",
+    "options_en": [
+      "Alam Ara",
+      "Raja Harishchandra",
+      "Kisan Kanya",
+      "Kaliya Mardan"
+    ],
+    "options_hi": [
+      "आलम आरा",
+      "राजा हरिश्चंद्र",
+      "किसान कन्या",
+      "कालिया मर्दन"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "'Raja Harishchandra', released on May 3, 1913 at Coronation Cinematograph in Mumbai, was produced and directed by Dadasaheb Phalke, the father of Indian cinema.",
+    "explanation_hi": "3 मई 1913 को प्रदर्शित 'राजा हरिश्चंद्र' भारत की पहली मूक फीचर फिल्म थी, जिसे दादासाहेब फाल्के ने बनाया था।"
+  },
+  {
+    "subjectId": "S21",
+    "subjectName": "Awards, Honors & Distinctions (प्रमुख पुरस्कार एवं सम्मान)",
+    "chapter": "Nobel Prizes: History, Will & Categories",
+    "topicId": "S21-C7f420f5a-T00a07970",
+    "topicName": "Alfred Nobel's Will (1895) & The Five Original Prize Categories",
+    "questionId": "Q-S21-001",
+    "question_en": "Which of the following Nobel Prizes was NOT part of Alfred Nobel's original 1895 will and was instituted later in 1968 by Sweden's central bank?",
+    "question_hi": "निम्नलिखित में से कौन-सा नोबेल पुरस्कार अल्फ्रेड नोबेल की मूल 1895 की वसीयत में शामिल नहीं था और 1968 में स्वीडन के केंद्रीय बैंक द्वारा स्थापित किया गया?",
+    "options_en": [
+      "Physiology or Medicine",
+      "Peace",
+      "Economic Sciences",
+      "Literature"
+    ],
+    "options_hi": [
+      "शरीर क्रिया विज्ञान या चिकित्सा",
+      "शांति",
+      "आर्थिक विज्ञान (अर्थशास्त्र)",
+      "साहित्य"
+    ],
+    "correctIndex": 2,
+    "explanation_en": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel was instituted in 1968 by Sweden's central bank and first awarded in 1969. Nobel's original 1895 will endowed only Physics, Chemistry, Physiology or Medicine, Literature, and Peace.",
+    "explanation_hi": "अर्थशास्त्र का नोबेल पुरस्कार अल्फ्रेड नोबेल की मूल वसीयत में नहीं था; इसे 1968 में स्वेरिजेस रिक्सबैंक द्वारा स्थापित किया गया और पहली बार 1969 में दिया गया।"
+  },
+  {
+    "subjectId": "S22",
+    "subjectName": "World Religions & Philosophies (विश्व धर्म एवं दर्शन)",
+    "chapter": "Ancient Buddhist Traditions & Holy Sites",
+    "topicId": "S22-Cbc82f40b-T5b6f40df",
+    "topicName": "Lumbini: Birthplace of Gautama Buddha & Ashoka Pillar",
+    "questionId": "Q-S22-001",
+    "question_en": "In which present-day country is Lumbini, the UNESCO World Heritage site venerated as the birthplace of Siddhartha Gautama (the Buddha), located?",
+    "question_hi": "सिद्धार्थ गौतम (भगवान बुद्ध) की जन्मस्थली के रूप में पूजनीय यूनेस्को विश्व धरोहर स्थल 'लुंबिनी' वर्तमान में किस देश में स्थित है?",
+    "options_en": [
+      "India (Bihar)",
+      "Nepal (Rupandehi District)",
+      "Bhutan",
+      "Sri Lanka"
+    ],
+    "options_hi": [
+      "भारत (बिहार)",
+      "नेपाल (रुपंदेही जिला)",
+      "भूटान",
+      "श्रीलंका"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Lumbini is situated in the Terai plains of southern Nepal. Emperor Ashoka visited in 249 BCE and erected an inscribed commemorative pillar confirming it as Buddha's birthplace.",
+    "explanation_hi": "लुंबिनी वर्तमान दक्षिणी नेपाल के रुपंदेही जिले में स्थित है। सम्राट अशोक ने 249 ईसा पूर्व में यहां यात्रा कर प्रसिद्ध रुम्मिनदेई स्तंभ अभिलेख स्थापित कराया था।"
+  },
+  {
+    "subjectId": "S23",
+    "subjectName": "Global Currencies, Trade & Commerce (मुद्राएं एवं व्यापार)",
+    "chapter": "Indian Currency & Reserve Bank Security Features",
+    "topicId": "S23-C864e59f4-Tb6a1f720",
+    "topicName": "RBI Currency Architecture: Note Denominations & Clean Note Policy",
+    "questionId": "Q-S23-001",
+    "question_en": "Under Section 22 of the Reserve Bank of India Act, 1934, which authority has the sole right to issue banknotes in India?",
+    "question_hi": "भारतीय रिज़र्व बैंक अधिनियम, 1934 की धारा 22 के तहत भारत में बैंक नोट जारी करने का एकमात्र अधिकार किस संस्था के पास है?",
+    "options_en": [
+      "State Bank of India",
+      "Reserve Bank of India",
+      "Ministry of Finance",
+      "NITI Aayog"
+    ],
+    "options_hi": [
+      "भारतीय स्टेट बैंक",
+      "भारतीय रिज़र्व बैंक (RBI)",
+      "वित्त मंत्रालय",
+      "नीति आयोग"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Section 22 of the RBI Act, 1934 grants the Reserve Bank of India the sole right to issue banknotes of all denominations in India (except the one-rupee note, which is issued by the Ministry of Finance).",
+    "explanation_hi": "आरबीआई अधिनियम, 1934 की धारा 22 के तहत भारत में करेंसी नोट जारी करने का एकाधिकार भारतीय रिज़र्व बैंक के पास है (एक रुपये के नोट को छोड़कर, जिसे वित्त मंत्रालय जारी करता है)।"
+  },
+  {
+    "subjectId": "S24",
+    "subjectName": "Defence Forces & Security Apparatus (रक्षा एवं सुरक्षा बल)",
+    "chapter": "Indian Armed Forces: Command Structure & Ranks",
+    "topicId": "S24-Cff6d924e-Tf273e9e9",
+    "topicName": "Chief of Defence Staff (CDS) & Tri-Services Integration",
+    "questionId": "Q-S24-001",
+    "question_en": "Who serves as the Supreme Commander of the Indian Armed Forces according to Article 53(2) of the Constitution of India?",
+    "question_hi": "भारतीय संविधान के अनुच्छेद 53(2) के अनुसार भारतीय सशस्त्र बलों का सर्वोच्च सेनापति (Supreme Commander) कौन होता है?",
+    "options_en": [
+      "Prime Minister of India",
+      "President of India",
+      "Chief of Defence Staff (CDS)",
+      "Union Defence Minister"
+    ],
+    "options_hi": [
+      "भारत के प्रधानमंत्री",
+      "भारत के राष्ट्रपति",
+      "चीफ ऑफ डिफेंस स्टाफ (CDS)",
+      "केंद्रीय रक्षा मंत्री"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Article 53(2) of the Indian Constitution expressly vests the Supreme Command of the Defence Forces of the Union in the President of India.",
+    "explanation_hi": "संविधान के अनुच्छेद 53(2) के अनुसार, संघ के रक्षा बलों का सर्वोच्च समादेश भारत के राष्ट्रपति में निहित होता है।"
+  },
+  {
+    "subjectId": "S25",
+    "subjectName": "Visual & Identification GK (दृश्यात्मक एवं प्रतीक ज्ञान)",
+    "chapter": "National Emblems, Official Seals & Motifs",
+    "topicId": "S25-C8d451a92-T1c0849a9",
+    "topicName": "State Emblem of India: Lion Capital of Ashoka & Satyameva Jayate",
+    "questionId": "Q-S25-001",
+    "question_en": "The State Emblem of India is an adaptation of the Lion Capital of Ashoka preserved at which historical location, and which script is the motto 'Satyameva Jayate' inscribed in?",
+    "question_hi": "भारत का राज्य प्रतीक (State Emblem) सारनाथ में संरक्षित अशोक के सिंह स्तंभ का रूपांतरण है। इसके नीचे 'सत्यमेव जयते' किस लिपि में अंकित है?",
+    "options_en": [
+      "Brahmi script",
+      "Devanagari script",
+      "Pali script",
+      "Kharosthi script"
+    ],
+    "options_hi": [
+      "ब्राह्मी लिपि",
+      "देवनागरी लिपि",
+      "पाली लिपि",
+      "खरोष्ठी लिपि"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Adopted on 26 January 1950, the State Emblem shows four lions mounted on an abacus. Below it, the motto 'Satyameva Jayate' from the Mundaka Upanishad is inscribed in Devanagari script.",
+    "explanation_hi": "26 जनवरी 1950 को अपनाया गया भारत का राष्ट्रीय प्रतीक सारनाथ के अशोक स्तंभ से लिया गया है। इसके नीचे मुंडक उपनिषद का सूत्र 'सत्यमेव जयते' देवनागरी लिपि में अंकित है।"
+  },
+  {
+    "subjectId": "S26",
+    "subjectName": "Metrology, SI Units & Standard Measures (मापिकी एवं मानक मात्रक)",
+    "chapter": "Base SI Units & Defining Physical Constants",
+    "topicId": "S26-Ce9261bae-T4bb10371",
+    "topicName": "The 2019 SI Redefinition: Cesium Frequency, Speed of Light & Planck Constant",
+    "questionId": "Q-S26-001",
+    "question_en": "In the International System of Units (SI), which defining fundamental physical constant fixed at exactly 6.62607015 × 10^-34 J·s is used to define the kilogram?",
+    "question_hi": "अंतर्राष्ट्रीय मात्रक प्रणाली (SI) में किलोग्राम को पुनर्परिभाषित करने के लिए किस सार्वत्रिक भौतिक नियतांक (6.62607015 × 10^-34 J·s) का उपयोग किया जाता है?",
+    "options_en": [
+      "Boltzmann constant (k)",
+      "Planck constant (h)",
+      "Elementary charge (e)",
+      "Avogadro constant (NA)"
+    ],
+    "options_hi": [
+      "बोल्ट्जमान नियतांक (k)",
+      "प्लांक नियतांक (h)",
+      "मूल आवेश (e)",
+      "आवोगाद्रो नियतांक (NA)"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Since the 2019 redefinition by BIPM, the kilogram is defined by fixing the numerical value of the Planck constant h to exactly 6.62607015 × 10^-34 J s (or kg m^2 s^-1).",
+    "explanation_hi": "2019 में बीआईपीएम (BIPM) द्वारा किलोग्राम की परिभाषा को प्लैटिनम-इरीडियम सिलेंडर से हटाकर प्लांक नियतांक h (6.62607015 × 10^-34 जूल-सेकंड) के निश्चित मान से जोड़ दिया गया।"
+  }
+]

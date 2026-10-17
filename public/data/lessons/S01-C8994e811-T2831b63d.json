@@ -1,0 +1,17 @@
+{
+  "videoId": "vid_S01-C8994e811-T2831b63d",
+  "topicId": "S01-C8994e811-T2831b63d",
+  "status": "PROMPT_READY",
+  "targetDurationSec": 180,
+  "narrationHindi": "कर्क रेखा भारत के 8 राज्यों से होकर गुजरती है: गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा और मिजोरम।",
+  "factCardIds": [
+    "FC_S01-C8994e811-T2831b63d"
+  ],
+  "learningObjectives": [
+    "concept_S01-C8994e811-T2831b63d_0",
+    "concept_S01-C8994e811-T2831b63d_1",
+    "concept_S01-C8994e811-T2831b63d_2",
+    "concept_S01-C8994e811-T2831b63d_3"
+  ],
+  "scenes": []
+}

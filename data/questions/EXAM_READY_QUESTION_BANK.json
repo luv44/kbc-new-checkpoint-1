@@ -1,0 +1,802 @@
+[
+  {
+    "id": "EXAM-S01-01",
+    "subjectId": "S01",
+    "chapterId": "S01-C8994e811",
+    "chapterName": "Geographical Extremities, Coordinates & Standard Time (भौगोलिक सुदूरतम बिंदु एवं मानक समय)",
+    "topicId": "S01-C8994e811-T60e40ec2",
+    "question_en": "Through how many Indian States does the Tropic of Cancer (23°30' N latitude) pass across the Indian landmass?",
+    "question_hi": "कर्क रेखा (23°30' उत्तरी अक्षांश) भारत के कुल कितने राज्यों से होकर गुजरती है?",
+    "options_en": [
+      "6 States",
+      "7 States",
+      "8 States",
+      "9 States"
+    ],
+    "options_hi": [
+      "6 राज्य",
+      "7 राज्य",
+      "8 राज्य",
+      "9 राज्य"
+    ],
+    "correctIndex": 2,
+    "explanation_en": "The Tropic of Cancer passes through 8 Indian states from west to east: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.",
+    "explanation_hi": "कर्क रेखा भारत के 8 राज्यों से होकर गुजरती है: गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा और मिजोरम।",
+    "examTag": "UPSC CSE / SSC CGL / State PSC"
+  },
+  {
+    "id": "EXAM-S01-02",
+    "subjectId": "S01",
+    "chapterId": "S01-Cac567568",
+    "chapterName": "International Land Borders & Coastal Boundaries (अंतर्राष्ट्रीय स्थलीय सीमाएं एवं तटीय सीमाएं)",
+    "topicId": "S01-Cac567568-T4bd530b2",
+    "question_en": "With which neighboring country does India share its longest international land border?",
+    "question_hi": "भारत किस पड़ोसी देश के साथ अपनी सबसे लंबी अंतर्राष्ट्रीय स्थलीय सीमा साझा करता है?",
+    "options_en": [
+      "China (3,488 km)",
+      "Pakistan (3,323 km)",
+      "Bangladesh (4,096.7 km)",
+      "Nepal (1,751 km)"
+    ],
+    "options_hi": [
+      "चीन (3,488 किमी)",
+      "पाकिस्तान (3,323 किमी)",
+      "बांग्लादेश (4,096.7 किमी)",
+      "नेपाल (1,751 किमी)"
+    ],
+    "correctIndex": 2,
+    "explanation_en": "According to the Ministry of Home Affairs, India shares its longest international land border with Bangladesh, spanning 4,096.7 km across five Indian states (West Bengal, Assam, Meghalaya, Tripura, Mizoram).",
+    "explanation_hi": "गृह मंत्रालय के अनुसार भारत की सबसे लंबी स्थलीय सीमा बांग्लादेश के साथ है, जिसकी लंबाई 4,096.7 किमी है और यह 5 भारतीय राज्यों से लगती है।",
+    "examTag": "SSC CGL / CDS / NDA"
+  },
+  {
+    "id": "EXAM-S01-03",
+    "subjectId": "S01",
+    "chapterId": "S01-C4d19bee9",
+    "chapterName": "Physiographic Divisions & Mountain Passes (भौतिक भू-आकृतिक विभाजन एवं प्रमुख पर्वतीय दर्रे)",
+    "topicId": "S01-C4d19bee9-Tc78825d7",
+    "question_en": "Which strategic mountain pass connects the Kashmir Valley with the high-altitude Ladakh region across the Great Himalayas?",
+    "question_hi": "महान हिमालय में स्थित कौन-सा रणनीतिक पर्वतीय दर्रा कश्मीर घाटी को लद्दाख क्षेत्र से जोड़ता है?",
+    "options_en": [
+      "Nathu La",
+      "Zoji La",
+      "Shipki La",
+      "Bum La"
+    ],
+    "options_hi": [
+      "नाथू ला",
+      "ज़ोजिला (Zoji La)",
+      "शिपकी ला",
+      "बुम ला"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Zoji La is a vital mountain pass in the Himalayas (at an elevation of ~3,528 m) on National Highway 1, connecting Srinagar and the Kashmir Valley with Leh in Ladakh.",
+    "explanation_hi": "ज़ोजिला दर्रा (लगभग 3,528 मीटर की ऊंचाई पर) राष्ट्रीय राजमार्ग-1 पर स्थित है, जो श्रीनगर एवं कश्मीर घाटी को लद्दाख के लेह से जोड़ता है।",
+    "examTag": "UPSC CSE / State PSC / KBC"
+  },
+  {
+    "id": "EXAM-S02-01",
+    "subjectId": "S02",
+    "chapterId": "S02-Cda5068db",
+    "chapterName": "National Flagship Schemes & Socio-Economic Policies (राष्ट्रीय फ्लैगशिप योजनाएं)",
+    "topicId": "S02-Cda5068db-Tf0293276",
+    "question_en": "What is the annual financial support provided to eligible landholding farmer families under the PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) scheme?",
+    "question_hi": "पीएम-किसान (प्रधानमंत्री किसान सम्मान निधि) योजना के तहत पात्र किसान परिवारों को प्रतिवर्ष कितनी वित्तीय सहायता प्रदान की जाती है?",
+    "options_en": [
+      "₹4,000 in two installments",
+      "₹6,000 in three equal installments",
+      "₹8,000 in four installments",
+      "₹10,000 annually"
+    ],
+    "options_hi": [
+      "₹4,000 (दो किस्तों में)",
+      "₹6,000 (तीन समान किस्तों में)",
+      "₹8,000 (चार किस्तों में)",
+      "₹10,000 (एकमुश्त)"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Under the PM-KISAN central sector scheme, income support of ₹6,000 per year is provided in three equal installments of ₹2,000 directly into the bank accounts of farmer families.",
+    "explanation_hi": "पीएम-किसान योजना के अंतर्गत पात्र किसानों को प्रतिवर्ष ₹6,000 की वित्तीय सहायता ₹2,000 की तीन समान किस्तों में सीधे बैंक खातों में अंतरित की जाती है।",
+    "examTag": "UPSC Prelims / Banking / State PCS"
+  },
+  {
+    "id": "EXAM-S02-02",
+    "subjectId": "S02",
+    "chapterId": "S02-Cd08481ed",
+    "chapterName": "International Summits & Global Treaties (अंतर्राष्ट्रीय सम्मेलन व संधियां)",
+    "topicId": "S02-Cd08481ed-Tacff6a2e",
+    "question_en": "Under India's G20 Presidency in 2023, which continental multilateral body was formally admitted as a permanent member of the G20 at the New Delhi Summit?",
+    "question_hi": "भारत की G20 अध्यक्षता (2023) के दौरान नई दिल्ली शिखर सम्मेलन में किस महाद्वीपीय संगठन को G20 के स्थायी सदस्य के रूप में औपचारिक रूप से शामिल किया गया?",
+    "options_en": [
+      "ASEAN",
+      "African Union (AU)",
+      "Arab League",
+      "OPEC"
+    ],
+    "options_hi": [
+      "आसियान (ASEAN)",
+      "अफ्रीकी संघ (African Union - AU)",
+      "अरब लीग",
+      "ओपेक (OPEC)"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "At the 18th G20 Heads of State and Government Summit held in New Delhi in September 2023, the 55-member African Union (AU) was admitted as a permanent member of the G20 under India's leadership.",
+    "explanation_hi": "सितंबर 2023 में नई दिल्ली में आयोजित 18वें G20 शिखर सम्मेलन में भारत की पहल पर 55 सदस्य देशों वाले अफ्रीकी संघ (AU) को G20 का स्थायी सदस्य बनाया गया।",
+    "examTag": "UPSC CSE / SSC / KBC"
+  },
+  {
+    "id": "EXAM-S03-01",
+    "subjectId": "S03",
+    "chapterId": "S03-Cf57dd5c3",
+    "chapterName": "Pre-Historic Cultures & Indus Valley Urban Planning (सिंधु घाटी सभ्यता नगर नियोजन)",
+    "topicId": "S03-Cf57dd5c3-T160839f2",
+    "question_en": "At which Indus Valley Civilization site was an ancient tidal dockyard with advanced maritime engineering discovered in Gujarat?",
+    "question_hi": "गुजरात में किस हड़प्पा कालीन स्थल पर प्राचीन ज्वारीय गोदीवाड़ा (Tidal Dockyard) खोजा गया था?",
+    "options_en": [
+      "Dholavira",
+      "Lothal",
+      "Surkotada",
+      "Rakhigarhi"
+    ],
+    "options_hi": [
+      "धोलावीरा",
+      "लोथल (Lothal)",
+      "सुरकोटड़ा",
+      "राखीगढ़ी"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Lothal, situated near the Gulf of Khambhat in Gujarat, possessed the world's earliest known tidal dockyard connected to an ancient course of the Sabarmati/Bhogavo river, serving as a vital Harappan trade port.",
+    "explanation_hi": "लोथल (गुजरात) में प्राचीन विश्व का सबसे पहला ज्ञात गोदीवाड़ा (डॉकयार्ड) मिला, जो भोगवा नदी के माध्यम से खंभात की खाड़ी से जुड़ा हुआ था और व्यापार का मुख्य केंद्र था।",
+    "examTag": "UPSC CSE / State PSC / SSC"
+  },
+  {
+    "id": "EXAM-S03-02",
+    "subjectId": "S03",
+    "chapterId": "S03-C8a2f389f",
+    "chapterName": "The Mauryan Empire, Ashokan Edicts & Dhamma (मौर्य साम्राज्य एवं अशोक के अभिलेख)",
+    "topicId": "S03-C8a2f389f-T80b6a594",
+    "question_en": "In which Major Rock Edict did Emperor Ashoka describe the catastrophic suffering of the Kalinga War and his subsequent remorse leading to the adoption of Dhamma-vijaya?",
+    "question_hi": "सम्राट अशोक के किस प्रमुख शिलालेख में कलिंग युद्ध की विभीषिका और उसके पश्चात उनके हृदय परिवर्तन तथा 'धम्म-विजय' अपनाने का वर्णन मिलता है?",
+    "options_en": [
+      "Major Rock Edict I",
+      "Major Rock Edict V",
+      "Major Rock Edict X",
+      "Major Rock Edict XIII"
+    ],
+    "options_hi": [
+      "प्रथम शिलालेख",
+      "पंचम शिलालेख",
+      "दशम शिलालेख",
+      "त्रयोदश (13वां) शिलालेख"
+    ],
+    "correctIndex": 3,
+    "explanation_en": "Major Rock Edict XIII (13th Edict) gives a vivid account of the conquest of Kalinga (8 years after Ashoka's coronation), expressing his profound sorrow and proclaiming conquest by Dhamma as the highest conquest.",
+    "explanation_hi": "13वें प्रमुख शिलालेख में अशोक के राज्याभिषेक के 8वें वर्ष में हुए कलिंग युद्ध (261 ईसा पूर्व) के नरसंहार का वर्णन और युद्ध त्यागकर धम्म विजय अपनाने का उल्लेख है।",
+    "examTag": "UPSC CSE / State PCS / KBC"
+  },
+  {
+    "id": "EXAM-S04-01",
+    "subjectId": "S04",
+    "chapterId": "S04-C4112654a",
+    "chapterName": "Arab Invasions, Ghaznavids & Delhi Sultanate (दिल्ली सल्तनत)",
+    "topicId": "S04-C4112654a-Te2dd2157",
+    "question_en": "Which Delhi Sultan introduced market control regulations, fixed prices of grain and cloth, and created the administrative department 'Diwan-i-Riyasat'?",
+    "question_hi": "दिल्ली सल्तनत के किस शासक ने बाजार नियंत्रण प्रणाली लागू की, खाद्यान्न व वस्त्रों के मूल्य निर्धारित किए तथा 'दीवान-ए-रियासत' विभाग की स्थापना की?",
+    "options_en": [
+      "Balban",
+      "Alauddin Khalji",
+      "Muhammad bin Tughluq",
+      "Firoz Shah Tughluq"
+    ],
+    "options_hi": [
+      "बलबन",
+      "अलाउद्दीन खिलजी",
+      "मुहम्मद बिन तुगलक",
+      "फिरोज शाह तुगलक"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Alauddin Khalji (reigned 1296–1316) instituted strict market control policies, established separate price-regulated markets (Mandi, Sarai-i-Adl), and appointed the Shahna-i-Mandi to maintain a large standing army.",
+    "explanation_hi": "अलाउद्दीन खिलजी ने विशाल सेना के भरण-पोषण के लिए विस्तृत बाजार सुधार किए, आवश्यक वस्तुओं के मूल्य निश्चित किए और दीवान-ए-रियासत व शहाना-ए-मंडी की नियुक्ति की।",
+    "examTag": "UPSC CSE / State PSC / SSC CGL"
+  },
+  {
+    "id": "EXAM-S04-02",
+    "subjectId": "S04",
+    "chapterId": "S04-Ccead5806",
+    "chapterName": "Indian National Movement: Gandhian Era (स्वतंत्रता संग्राम)",
+    "topicId": "S04-Ccead5806-T5295c528",
+    "question_en": "On which exact date did Mahatma Gandhi inaugurate the Civil Disobedience Movement by breaking the salt law at Dandi?",
+    "question_hi": "महात्मा गांधी ने दांडी पहुंचकर किस सटीक तिथि को नमक कानून तोड़कर सविनय अवज्ञा आंदोलन की शुरुआत की थी?",
+    "options_en": [
+      "12 March 1930",
+      "6 April 1930",
+      "26 January 1930",
+      "8 August 1942"
+    ],
+    "options_hi": [
+      "12 मार्च 1930",
+      "6 अप्रैल 1930",
+      "26 जनवरी 1930",
+      "8 अगस्त 1942"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The historic Dandi March started from Sabarmati Ashram on 12 March 1930. Mahatma Gandhi reached the coastal village of Dandi on 5 April and formally broke the British salt law on 6 April 1930.",
+    "explanation_hi": "दांडी यात्रा 12 मार्च 1930 को साबरमती से शुरू हुई थी और 24 दिनों की यात्रा के बाद 6 अप्रैल 1930 की सुबह गांधीजी ने दांडी तट पर एक मुट्ठी नमक उठाकर सविनय अवज्ञा आंदोलन की शुरुआत की।",
+    "examTag": "UPSC / State PCS / SSC CGL / KBC"
+  },
+  {
+    "id": "EXAM-S05-01",
+    "subjectId": "S05",
+    "chapterId": "S05-Cd1fc9546",
+    "chapterName": "Constituent Assembly, Historical Acts & Preamble (संविधान सभा व प्रस्तावना)",
+    "topicId": "S05-Cd1fc9546-Td2a9d7d4",
+    "question_en": "By which Constitutional Amendment Act were the words 'Socialist', 'Secular', and 'Integrity' added to the Preamble of the Constitution of India?",
+    "question_hi": "किस संविधान संशोधन अधिनियम द्वारा भारतीय संविधान की प्रस्तावना में 'समाजवादी', 'पंथनिरपेक्ष' और 'अखंडता' शब्द जोड़े गए थे?",
+    "options_en": [
+      "42nd Amendment Act, 1976",
+      "44th Amendment Act, 1978",
+      "52nd Amendment Act, 1985",
+      "86th Amendment Act, 2002"
+    ],
+    "options_hi": [
+      "42वां संविधान संशोधन अधिनियम, 1976",
+      "44वां संविधान संशोधन अधिनियम, 1978",
+      "52वां संविधान संशोधन अधिनियम, 1985",
+      "86वां संविधान संशोधन अधिनियम, 2002"
+    ],
+    "correctIndex": 0,
+    "explanation_en": "The 42nd Constitutional Amendment Act of 1976 (known as the 'Mini-Constitution') amended the Preamble by adding the words 'Socialist', 'Secular' and changed 'unity of the Nation' to 'unity and integrity of the Nation'.",
+    "explanation_hi": "42वें संविधान संशोधन अधिनियम (1976) द्वारा संविधान की प्रस्तावना में संशोधन कर 'समाजवादी', 'पंथनिरपेक्ष' और 'अखंडता' शब्दों को सम्मिलित किया गया था।",
+    "examTag": "UPSC CSE / State PSC / Judiciary"
+  },
+  {
+    "id": "EXAM-S05-02",
+    "subjectId": "S05",
+    "chapterId": "S05-Cc13f58d9",
+    "chapterName": "Parliamentary Procedures & The Integrated Judiciary (संसद व न्यायपालिका)",
+    "topicId": "S05-Cc13f58d9-Ta265da4a",
+    "question_en": "Under Article 143 of the Constitution of India, who is empowered to consult the Supreme Court on questions of law or fact of public importance?",
+    "question_hi": "भारतीय संविधान के अनुच्छेद 143 के तहत सार्वजनिक महत्व के विधिक या तथ्य संबंधी प्रश्नों पर सर्वोच्च न्यायालय से परामर्श मांगने का अधिकार किसे प्राप्त है?",
+    "options_en": [
+      "Prime Minister",
+      "President of India",
+      "Speaker of Lok Sabha",
+      "Chief Justice of India"
+    ],
+    "options_hi": [
+      "प्रधानमंत्री",
+      "भारत के राष्ट्रपति",
+      "लोकसभा अध्यक्ष",
+      "भारत के मुख्य न्यायाधीश"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Article 143 empowers the President of India to refer any question of law or fact of public importance to the Supreme Court for advisory opinion (Advisory Jurisdiction).",
+    "explanation_hi": "अनुच्छेद 143 के अंतर्गत राष्ट्रपति को यह अधिकार है कि वे किसी विधि या तथ्य के प्रश्न पर, जो सार्वजनिक महत्व का हो, सर्वोच्च न्यायालय से परामर्श मांग सकते हैं।",
+    "examTag": "UPSC CSE / Judiciary / State PCS"
+  },
+  {
+    "id": "EXAM-S06-01",
+    "subjectId": "S06",
+    "chapterId": "S06-C4397a951",
+    "chapterName": "Panchayati Raj Institutions (73rd Amendment) (पंचायती राज व्यवस्था)",
+    "topicId": "S06-C4397a951-T1c0849a9",
+    "question_en": "Which Schedule was added to the Constitution of India by the 73rd Constitutional Amendment Act, 1992, listing 29 functional subjects for Panchayats?",
+    "question_hi": "73वें संविधान संशोधन अधिनियम, 1992 द्वारा भारतीय संविधान में कौन-सी अनुसूची जोड़ी गई, जिसमें पंचायतों के लिए 29 कार्यात्मक विषय सूचीबद्ध हैं?",
+    "options_en": [
+      "10th Schedule",
+      "11th Schedule",
+      "12th Schedule",
+      "9th Schedule"
+    ],
+    "options_hi": [
+      "10वीं अनुसूची",
+      "11वीं अनुसूची (11th Schedule)",
+      "12वीं अनुसूची",
+      "9वीं अनुसूची"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The 73rd Constitutional Amendment Act added the Eleventh Schedule (Article 243G), containing 29 matters within the purview of Panchayats (such as agriculture, rural housing, drinking water, roads).",
+    "explanation_hi": "73वें संविधान संशोधन अधिनियम द्वारा 11वीं अनुसूची जोड़ी गई जिसमें पंचायतों को हस्तांतरित किए जाने वाले 29 विषयों का उल्लेख है।",
+    "examTag": "UPSC / State PCS / SSC"
+  },
+  {
+    "id": "EXAM-S07-01",
+    "subjectId": "S07",
+    "chapterId": "S07-Cef3bcdf8",
+    "chapterName": "Reserve Bank of India & Monetary Policy (आरबीआई एवं मौद्रिक नीति)",
+    "topicId": "S07-Cef3bcdf8-T8d2ac8b5",
+    "question_en": "What is the official inflation targeting band mandated for the Reserve Bank of India under the flexible inflation targeting framework?",
+    "question_hi": "भारतीय रिज़र्व बैंक के लिए लचीले मुद्रास्फीति लक्ष्यीकरण ढांचे के तहत अधिकृत मुद्रास्फीति लक्ष्य दायरा (Inflation Target Band) क्या निर्धारित है?",
+    "options_en": [
+      "2% with a tolerance of ±1%",
+      "4% with a tolerance band of ±2% (2% to 6%)",
+      "5% fixed rate",
+      "3% to 7%"
+    ],
+    "options_hi": [
+      "2% (±1% सहनशीलता)",
+      "4% (±2% सहनशीलता बैंड: 2% से 6%)",
+      "5% निश्चित दर",
+      "3% से 7%"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Under Section 45ZA of the RBI Act, the Central Government, in consultation with the RBI, sets the Consumer Price Index (CPI) inflation target at 4% with a tolerance band of 2% to 6% (4% ± 2%).",
+    "explanation_hi": "आरबीआई अधिनियम के तहत केंद्र सरकार ने उपभोक्ता मूल्य सूचकांक (CPI) आधारित मुद्रास्फीति का लक्ष्य 4% निर्धारित किया है, जिसमें ±2% की सहनशीलता सीमा (2% से 6%) रखी गई है।",
+    "examTag": "UPSC Prelims / RBI Grade B / Banking"
+  },
+  {
+    "id": "EXAM-S08-01",
+    "subjectId": "S08",
+    "chapterId": "S08-C9270c63f",
+    "chapterName": "Geomorphology: Earth Interior & Plate Tectonics (भू-आकृति विज्ञान)",
+    "topicId": "S08-C9270c63f-Ta60b7a9c",
+    "question_en": "What is the name of the seismic boundary layer that separates the Earth's continental crust from the underlying mantle?",
+    "question_hi": "पृथ्वी की भूपर्पटी (Crust) को नीचे स्थित मैंटल (Mantle) से अलग करने वाली भूकंपीय असंबद्धता (Discontinuity) का क्या नाम है?",
+    "options_en": [
+      "Gutenberg Discontinuity",
+      "Mohorovicic (Moho) Discontinuity",
+      "Lehmann Discontinuity",
+      "Conrad Discontinuity"
+    ],
+    "options_hi": [
+      "गुटेनबर्ग असंबद्धता",
+      "मोहोरोविसिक (मोहो) असंबद्धता",
+      "लेहमैन असंबद्धता",
+      "कॉनराड असंबद्धता"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The Mohorovicic Discontinuity (Moho), discovered in 1909 by Andrija Mohorovicic, marks the boundary between the Earth's crust and the upper mantle where seismic wave velocity sharply increases.",
+    "explanation_hi": "मोहोरोविसिक (मोहो) असंबद्धता पृथ्वी की क्रस्ट और ऊपरी मैंटल के मध्य स्थित है, जहां भूकंपीय तरंगों (P और S) के वेग में अचानक तीव्र वृद्धि दर्ज की जाती है।",
+    "examTag": "UPSC CSE / State PCS / SSC CGL"
+  },
+  {
+    "id": "EXAM-S09-01",
+    "subjectId": "S09",
+    "chapterId": "S09-C327a7380",
+    "chapterName": "Biodiversity Hotspots & Ramsar Sites (जैव विविधता व रामसर स्थल)",
+    "topicId": "S09-C327a7380-Tb2547aa0",
+    "question_en": "Which famous international convention signed in 1971 in an Iranian city is dedicated to the conservation and sustainable use of wetlands of international importance?",
+    "question_hi": "1971 में ईरान के किस शहर में हस्ताक्षरित प्रसिद्ध अंतर्राष्ट्रीय सम्मेलन का संबंध अंतर्राष्ट्रीय महत्व की आर्द्रभूमियों (Wetlands) के संरक्षण से है?",
+    "options_en": [
+      "Basel Convention",
+      "Ramsar Convention",
+      "Stockholm Convention",
+      "Minamata Convention"
+    ],
+    "options_hi": [
+      "बेसल सम्मेलन",
+      "रामसर सम्मेलन (Ramsar Convention)",
+      "स्टॉकहोम सम्मेलन",
+      "मीनामाता सम्मेलन"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The Ramsar Convention on Wetlands of International Importance was adopted in Ramsar, Iran on 2 February 1971. World Wetlands Day is celebrated globally on February 2 every year.",
+    "explanation_hi": "रामसर अभिसमय 2 फरवरी 1971 को ईरान के रामसर शहर में हस्ताक्षरित हुआ था, जो दुनिया भर में आर्द्रभूमियों के संरक्षण के लिए कार्य करता है। प्रतिवर्ष 2 फरवरी को विश्व आर्द्रभूमि दिवस मनाया जाता है।",
+    "examTag": "UPSC CSE / State PCS / CDS"
+  },
+  {
+    "id": "EXAM-S10-01",
+    "subjectId": "S10",
+    "chapterId": "S10-C0f1997cd",
+    "chapterName": "Kinematics, Newton's Laws & Gravitation (न्यूटन के नियम व गुरुत्वाकर्षण)",
+    "topicId": "S10-C0f1997cd-T205dd9e9",
+    "question_en": "What is the approximate escape velocity required for an object launched from the surface of the Earth to break free of Earth's gravitational field?",
+    "question_hi": "पृथ्वी के गुरुत्वाकर्षण क्षेत्र से बाहर निकलने के लिए पृथ्वी की सतह से किसी पिंड का आवश्यक पलायन वेग (Escape Velocity) लगभग कितना होता है?",
+    "options_en": [
+      "9.8 m/s",
+      "11.2 km/s",
+      "8.0 km/s",
+      "42.1 km/s"
+    ],
+    "options_hi": [
+      "9.8 मीटर/सेकंड",
+      "11.2 किमी/सेकंड",
+      "8.0 किमी/सेकंड",
+      "42.1 किमी/सेकंड"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The escape velocity from the surface of Earth is calculated by ve = √(2GM/R) = √(2gR), which evaluates to approximately 11.2 km/s (or ~40,320 km/h).",
+    "explanation_hi": "पृथ्वी की सतह से पलायन वेग ve = √(2gR) होता है, जिसका मान लगभग 11.2 किमी/सेकंड (40,320 किमी/घंटा) होता है।",
+    "examTag": "SSC CGL / NDA / CDS / KBC"
+  },
+  {
+    "id": "EXAM-S11-01",
+    "subjectId": "S11",
+    "chapterId": "S11-C7bd7bee9",
+    "chapterName": "Atomic Models & Modern Periodic Table (आवर्त सारणी)",
+    "topicId": "S11-C7bd7bee9-Tca225dcd",
+    "question_en": "According to Henry Moseley's Modern Periodic Law, the physical and chemical properties of the elements are periodic functions of which fundamental property?",
+    "question_hi": "हेनरी मोजले के आधुनिक आवर्त नियम के अनुसार, तत्वों के भौतिक एवं रासायनिक गुणधर्म उनके किस मौलिक गुण के आवर्ती फलन होते हैं?",
+    "options_en": [
+      "Atomic Weight",
+      "Atomic Number (Nuclear Charge Z)",
+      "Mass Number",
+      "Electronegativity"
+    ],
+    "options_hi": [
+      "परमाणु भार",
+      "परमाणु क्रमांक (Atomic Number - Z)",
+      "द्रव्यमान संख्या",
+      "विद्युत ऋणात्मकता"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "In 1913, Henry Moseley demonstrated that atomic number (the number of protons in the nucleus) is more fundamental than atomic weight, establishing the Modern Periodic Law.",
+    "explanation_hi": "1913 में हेनरी मोजले ने सिद्ध किया कि तत्वों के गुणधर्म उनके परमाणु क्रमांक (नाभिक में प्रोटॉनों की संख्या) के आवर्ती फलन होते हैं, न कि परमाणु भार के।",
+    "examTag": "SSC CGL / Railway RRB / State PCS"
+  },
+  {
+    "id": "EXAM-S12-01",
+    "subjectId": "S12",
+    "chapterId": "S12-Ce9c56ff6",
+    "chapterName": "Cell Biology & Cell Organelles (कोशिका विज्ञान)",
+    "topicId": "S12-Ce9c56ff6-T5caddc4c",
+    "question_en": "Which cellular organelle containing hydrolytic digestive enzymes is commonly referred to as the 'suicide bag' of the eukaryotic cell?",
+    "question_hi": "जल-अपघटनी पाचक एंजाइमों से युक्त किस कोशिकांग को यूकेरियोटिक कोशिका की 'आत्मघाती थैली' (Suicide Bag) कहा जाता है?",
+    "options_en": [
+      "Ribosome",
+      "Lysosome",
+      "Mitochondrion",
+      "Golgi apparatus"
+    ],
+    "options_hi": [
+      "राइबोसोम",
+      "लाइसोसोम (Lysosome)",
+      "माइटोकॉन्ड्रिया",
+      "गॉल्जी उपकरण"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Lysosomes contain acidic hydrolases capable of breaking down cellular components and cellular debris. When a cell is severely damaged, lysosomes burst and digest the cell, earning the name 'suicide bags'.",
+    "explanation_hi": "लाइसोसोम में शक्तिशाली पाचक एंजाइम होते हैं। कोशिका के क्षतिग्रस्त होने पर लाइसोसोम फट जाते हैं और अपनी ही कोशिका का पाचन कर लेते हैं, इसलिए इन्हें आत्मघाती थैली कहते हैं।",
+    "examTag": "SSC CGL / State PCS / Railway / KBC"
+  },
+  {
+    "id": "EXAM-S13-01",
+    "subjectId": "S13",
+    "chapterId": "S13-C21e5550f",
+    "chapterName": "Computer Networking & OSI Model (कंप्यूटर नेटवर्किंग)",
+    "topicId": "S13-C21e5550f-T3f206ef3",
+    "question_en": "In the standard 7-layer OSI (Open Systems Interconnection) reference model, which layer is responsible for end-to-end process-to-process communication and flow control?",
+    "question_hi": "मानक 7-स्तरीय OSI संदर्भ मॉडल में कौन-सा स्तर एंड-टू-एंड प्रोसेस संचार तथा प्रवाह नियंत्रण (Flow Control) के लिए उत्तरदायी होता है?",
+    "options_en": [
+      "Network Layer",
+      "Transport Layer (Layer 4)",
+      "Data Link Layer",
+      "Session Layer"
+    ],
+    "options_hi": [
+      "नेटवर्क लेयर",
+      "ट्रांसपोर्ट लेयर (Transport Layer - Layer 4)",
+      "डेटा लिंक लेयर",
+      "सेशन लेयर"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Layer 4, the Transport Layer (protocols like TCP and UDP), provides transparent and reliable transfer of data between end systems with error recovery and flow control.",
+    "explanation_hi": "ट्रांसपोर्ट लेयर (लेयर 4) एंड-टू-एंड डेटा ट्रांसमिशन, त्रुटि नियंत्रण तथा फ्लो कंट्रोल प्रदान करती है (जैसे TCP और UDP प्रोटोकॉल)।",
+    "examTag": "SSC CGL Tier 2 / IBPS IT / UGC NET"
+  },
+  {
+    "id": "EXAM-S14-01",
+    "subjectId": "S14",
+    "chapterId": "S14-Cc877e372",
+    "chapterName": "The Solar System, Planetary Science (सौरमंडल व ग्रह विज्ञान)",
+    "topicId": "S14-Cc877e372-T2271ce30",
+    "question_en": "Which planet in the solar system has the shortest orbital revolution period around the Sun, completing one orbit in roughly 88 Earth days?",
+    "question_hi": "सौरमंडल के किस ग्रह का सूर्य के चारों ओर परिक्रमण काल सबसे कम है, जो लगभग 88 पृथ्वी दिवसों में एक परिक्रमा पूरी करता है?",
+    "options_en": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Earth"
+    ],
+    "options_hi": [
+      "शुक्र (Venus)",
+      "बुध (Mercury)",
+      "मंगल (Mars)",
+      "पृथ्वी (Earth)"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Mercury is the closest planet to the Sun and has the fastest orbital speed (~47.4 km/s), completing an orbit around the Sun in just 87.97 Earth days.",
+    "explanation_hi": "बुध (Mercury) सूर्य के सबसे निकटतम ग्रह होने के कारण सबसे तीव्र गति से मात्र 88 दिनों में सूर्य का एक चक्कर पूरा कर लेता है।",
+    "examTag": "SSC / Railway / KBC"
+  },
+  {
+    "id": "EXAM-S15-01",
+    "subjectId": "S15",
+    "chapterId": "S15-C4a2b9352",
+    "chapterName": "The Age of Enlightenment & French Revolution (फ्रांसीसी क्रांति)",
+    "topicId": "S15-C4a2b9352-Tcea0912b",
+    "question_en": "The storming of which medieval fortress and political prison on 14 July 1789 is commemorated as the defining event that sparked the French Revolution?",
+    "question_hi": "14 जुलाई 1789 को किस मध्यकालीन दुर्ग एवं राजनीतिक कारागार पर जनता के आक्रमण को फ्रांसीसी क्रांति की शुरुआत की निर्णायक घटना माना जाता है?",
+    "options_en": [
+      "Palace of Versailles",
+      "The Bastille",
+      "Tuileries Palace",
+      "Louvre"
+    ],
+    "options_hi": [
+      "वर्साय का महल",
+      "बास्तील का किला (The Bastille)",
+      "ट्यूलरी महल",
+      "लूवर"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The storming of the Bastille on 14 July 1789 became an iconic symbol of the fall of absolute royal tyranny and is celebrated annually as French National Day (Bastille Day).",
+    "explanation_hi": "14 जुलाई 1789 को बास्तील दुर्ग का पतन राजशाही की निरंकुशता के अंत का प्रतीक बन गया, जिसे फ्रांस के राष्ट्रीय दिवस (बास्तील दिवस) के रूप में मनाया जाता है।",
+    "examTag": "UPSC CSE / State PSC / World History"
+  },
+  {
+    "id": "EXAM-S16-01",
+    "subjectId": "S16",
+    "chapterId": "S16-Cb8158434",
+    "chapterName": "United Nations System: Principal Organs (संयुक्त राष्ट्र संघ)",
+    "topicId": "S16-Cb8158434-T204496ed",
+    "question_en": "Where is the permanent seat of the International Court of Justice (ICJ), the principal judicial organ of the United Nations, located?",
+    "question_hi": "संयुक्त राष्ट्र के मुख्य न्यायिक अंग 'अंतर्राष्ट्रीय न्यायालय' (ICJ) का स्थायी मुख्यालय कहां स्थित है?",
+    "options_en": [
+      "Geneva, Switzerland",
+      "New York, USA",
+      "The Hague, Netherlands",
+      "Vienna, Austria"
+    ],
+    "options_hi": [
+      "जिनेवा, स्विट्जरलैंड",
+      "न्यूयॉर्क, अमेरिका",
+      "द हेग, नीदरलैंड्स (The Hague)",
+      "वियना, ऑस्ट्रिया"
+    ],
+    "correctIndex": 2,
+    "explanation_en": "The International Court of Justice (ICJ), established in 1945 by the UN Charter, is headquartered at the Peace Palace in The Hague (Netherlands). It is the only one of the six principal UN organs not located in New York.",
+    "explanation_hi": "अंतर्राष्ट्रीय न्यायालय (ICJ) संयुक्त राष्ट्र के छह प्रमुख अंगों में से एकमात्र ऐसा अंग है जो न्यूयॉर्क में नहीं, बल्कि द हेग (नीदरलैंड्स) के पीस पैलेस में स्थित है।",
+    "examTag": "UPSC CSE / Judiciary / SSC / KBC"
+  },
+  {
+    "id": "EXAM-S17-01",
+    "subjectId": "S17",
+    "chapterId": "S17-C47d03ca3",
+    "chapterName": "Temple Architecture Styles (भारतीय मंदिर स्थापत्य)",
+    "topicId": "S17-C47d03ca3-T28de89d3",
+    "question_en": "The magnificent Sun Temple at Konark, designed in the shape of a colossal chariot with 24 carved stone wheels, was built in the 13th century by which Ganga Dynasty king?",
+    "question_hi": "कोणार्क का प्रसिद्ध सूर्य मंदिर, जिसे 24 नक्काशीदार पहियों वाले विशाल रथ के आकार में बनाया गया है, 13वीं शताब्दी में किस गंग वंश के शासक द्वारा बनवाया गया था?",
+    "options_en": [
+      "Anantavarman Chodaganga",
+      "Narasimhadeva I",
+      "Kharavela",
+      "Kapilendra Deva"
+    ],
+    "options_hi": [
+      "अनंतवर्मन चोडगंग",
+      "नरसिंहदेव प्रथम (Narasimhadeva I)",
+      "खारवेल",
+      "कपिलेंद्र देव"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Konark Sun Temple in Odisha (a UNESCO World Heritage Site) was constructed around 1250 CE by King Narasimhadeva I of the Eastern Ganga Dynasty.",
+    "explanation_hi": "ओडिशा का कोणार्क सूर्य मंदिर (ब्लैक पैगोडा) 13वीं शताब्दी (लगभग 1250 ई.) में पूर्वी गंग वंश के प्रतापी राजा नरसिंहदेव प्रथम द्वारा बनवाया गया था।",
+    "examTag": "UPSC CSE / State PSC / SSC / KBC"
+  },
+  {
+    "id": "EXAM-S18-01",
+    "subjectId": "S18",
+    "chapterId": "S18-C2b02f8ee",
+    "chapterName": "Classical Sanskrit Classics & Dramas (संस्कृत साहित्य)",
+    "topicId": "S18-C2b02f8ee-T3f514b82",
+    "question_en": "Who among the following classical Sanskrit dramatists authored the masterpiece play 'Abhijnanasakuntalam' (The Recognition of Sakuntala)?",
+    "question_hi": "संस्कृत साहित्य के प्रसिद्ध नाटक 'अभिज्ञानशाकुंतलम्' के रचयिता निम्नलिखित में से कौन हैं?",
+    "options_en": [
+      "Bhasa",
+      "Kalidasa",
+      "Bhavabhuti",
+      "Sudraka"
+    ],
+    "options_hi": [
+      "भास",
+      "कालिदास (Kalidasa)",
+      "भवभूति",
+      "शूद्रक"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Mahakavi Kalidasa, regarded as the greatest Sanskrit poet and dramatist of classical India, authored 'Abhijnanasakuntalam', 'Malavikagnimitram', 'Meghaduta', and 'Raghuvamsa'.",
+    "explanation_hi": "महाकवि कालिदास ने 'अभिज्ञानशाकुंतलम्' की रचना की थी, जिसे विश्व साहित्य के उत्कृष्ट नाटकों में गिना जाता है।",
+    "examTag": "UPSC CSE / State PSC / KBC"
+  },
+  {
+    "id": "EXAM-S19-01",
+    "subjectId": "S19",
+    "chapterId": "S19-C03e5a72a",
+    "chapterName": "Modern Olympic Games (ओलंपिक खेल)",
+    "topicId": "S19-C03e5a72a-T15cba103",
+    "question_en": "Where were the first modern Olympic Games held in 1896 under the leadership of Baron Pierre de Coubertin?",
+    "question_hi": "बैरोन पियरे डी कुबर्टिन के प्रयासों से 1896 में प्रथम आधुनिक ओलंपिक खेल किस शहर में आयोजित किए गए थे?",
+    "options_en": [
+      "Paris, France",
+      "Athens, Greece",
+      "London, UK",
+      "Rome, Italy"
+    ],
+    "options_hi": [
+      "पेरिस, फ्रांस",
+      "एथेंस, ग्रीस (Athens)",
+      "लंदन, ब्रिटेन",
+      "रोम, इटली"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The inaugural Games of the modern Olympiad were celebrated in Athens, Greece, in April 1896, reviving the ancient Olympic tradition in its historical homeland.",
+    "explanation_hi": "प्रथम आधुनिक ओलंपिक खेल 6 से 15 अप्रैल 1896 के मध्य ग्रीस की ऐतिहासिक राजधानी एथेंस के पैनाथिनाइको स्टेडियम में आयोजित किए गए थे।",
+    "examTag": "SSC CGL / Railway RRB / KBC"
+  },
+  {
+    "id": "EXAM-S20-01",
+    "subjectId": "S20",
+    "chapterId": "S20-C8dd4bb3c",
+    "chapterName": "Indian Cinema: Dadasaheb Phalke & Sound (भारतीय सिनेमा)",
+    "topicId": "S20-C8dd4bb3c-T107bcafb",
+    "question_en": "Which 1931 motion picture directed by Ardeshir Irani was India's first sound motion picture ('talkie')?",
+    "question_hi": "अर्देशिर ईरानी द्वारा निर्देशित वर्ष 1931 की कौन-सी फिल्म भारत की पहली बोलती फिल्म (सवाक फिल्म / Talkie) थी?",
+    "options_en": [
+      "Raja Harishchandra",
+      "Alam Ara",
+      "Ayodhyecha Raja",
+      "Kisan Kanya"
+    ],
+    "options_hi": [
+      "राजा हरिश्चंद्र",
+      "आलम आरा (Alam Ara)",
+      "अयोध्याचा राजा",
+      "किसान कन्या"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "'Alam Ara', released on 14 March 1931 at the Majestic Cinema in Bombay, was produced and directed by Ardeshir Irani and introduced synchronous sound to Indian cinema.",
+    "explanation_hi": "14 मार्च 1931 को मुंबई के मैजेस्टिक सिनेमा में रिलीज हुई 'आलम आरा' भारत की पहली बोलती फिल्म थी, जिसके निर्देशक अर्देशिर ईरानी थे।",
+    "examTag": "SSC CGL / State PSC / KBC"
+  },
+  {
+    "id": "EXAM-S21-01",
+    "subjectId": "S21",
+    "chapterId": "S21-C1ef02426",
+    "chapterName": "Civilian Honors: Bharat Ratna Order (भारत रत्न सम्मान)",
+    "topicId": "S21-C1ef02426-T8a915531",
+    "question_en": "In which inaugural year was India's highest civilian honor, the Bharat Ratna, instituted, and who was its first recipient?",
+    "question_hi": "भारत का सर्वोच्च नागरिक सम्मान 'भारत रत्न' किस वर्ष स्थापित किया गया था तथा इसके प्रथम प्राप्तकर्ता कौन थे?",
+    "options_en": [
+      "1950, Dr. Rajendra Prasad",
+      "1954, Dr. S. Radhakrishnan, C. Rajagopalachari, C.V. Raman",
+      "1952, Jawaharlal Nehru",
+      "1947, Sardar Vallabhbhai Patel"
+    ],
+    "options_hi": [
+      "1950, डॉ. राजेंद्र प्रसाद",
+      "1954, डॉ. सर्वपल्ली राधाकृष्णन, सी. राजगोपालाचारी व सी.वी. रमन",
+      "1952, जवाहरलाल नेहरू",
+      "1947, सरदार वल्लभभाई पटेल"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Instituted on 2 January 1954 by President Rajendra Prasad, the Bharat Ratna was first conferred upon politician C. Rajagopalachari, philosopher Dr. S. Radhakrishnan, and scientist Sir C. V. Raman.",
+    "explanation_hi": "भारत रत्न सम्मान 2 जनवरी 1954 को स्थापित हुआ था। 1954 में यह सम्मान संयुक्त रूप से सी. राजगोपालाचारी, डॉ. सर्वपल्ली राधाकृष्णन और नोबेल पुरस्कार विजेता सी.वी. रमन को दिया गया था।",
+    "examTag": "UPSC / State PSC / SSC / KBC"
+  },
+  {
+    "id": "EXAM-S22-01",
+    "subjectId": "S22",
+    "chapterId": "S22-Cbc82f40b",
+    "chapterName": "Six Schools of Indian Philosophy (षड्-दर्शन)",
+    "topicId": "S22-Cbc82f40b-T5b6f40df",
+    "question_en": "Who is traditionally regarded as the founding sage of the Nyaya school of orthodox Indian philosophy (Darshana), famed for its system of formal logic?",
+    "question_hi": "तर्कशास्त्र एवं प्रमाण मीमांसा के लिए प्रसिद्ध भारतीय दर्शन के 'न्याय दर्शन' के संस्थापक ऋषि किसे माना जाता है?",
+    "options_en": [
+      "Sage Kapila",
+      "Sage Aksapada Gautama",
+      "Sage Kanada",
+      "Sage Jaimini"
+    ],
+    "options_hi": [
+      "ऋषि कपिल (सांख्य)",
+      "ऋषि अक्षपाद गौतम (न्याय)",
+      "ऋषि कणाद (वैशेषिक)",
+      "ऋषि जैमिनि (मीमांसा)"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "Sage Aksapada Gautama composed the foundational Nyaya Sutras, establishing the Nyaya school of Hindu philosophy which emphasizes logic, epistemology (Pramana), and valid reasoning.",
+    "explanation_hi": "न्याय दर्शन के प्रवर्तक ऋषि अक्षपाद गौतम हैं जिन्होंने 'न्याय सूत्र' की रचना की। इसमें ज्ञान प्राप्ति के चार प्रमाण (प्रत्यक्ष, अनुमान, उपमान, शब्द) बताए गए हैं।",
+    "examTag": "UPSC CSE / State PSC / Philosophy"
+  },
+  {
+    "id": "EXAM-S23-01",
+    "subjectId": "S23",
+    "chapterId": "S23-C2d861ea1",
+    "chapterName": "World Currencies & SDR Basket (मुद्राएं एवं आईएमएफ बास्केट)",
+    "topicId": "S23-C2d861ea1-T5c9c7700",
+    "question_en": "Which five major currencies currently comprise the valuation basket of the International Monetary Fund's Special Drawing Rights (SDR)?",
+    "question_hi": "अंतर्राष्ट्रीय मुद्रा कोष (IMF) के विशेष आहरण अधिकार (SDR) बास्केट में वर्तमान में कौन-सी पांच प्रमुख मुद्राएं शामिल हैं?",
+    "options_en": [
+      "USD, EUR, GBP, JPY, CAD",
+      "USD, EUR, CNY (Renminbi), JPY, GBP",
+      "USD, EUR, INR, JPY, GBP",
+      "USD, EUR, CHF, JPY, AUD"
+    ],
+    "options_hi": [
+      "अमेरिकी डॉलर, यूरो, ब्रिटिश पाउंड, जापानी येन, कनाडाई डॉलर",
+      "अमेरिकी डॉलर, यूरो, चीनी युआन (रेन्मिन्बी), जापानी येन, ब्रिटिश पाउंड",
+      "अमेरिकी डॉलर, यूरो, भारतीय रुपया, येन, पाउंड",
+      "अमेरिकी डॉलर, यूरो, स्विस फ्रैंक, येन, ऑस्ट्रेलियाई डॉलर"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The IMF SDR basket comprises five global currencies: US Dollar, Euro, Chinese Renminbi (included in 2016), Japanese Yen, and British Pound Sterling.",
+    "explanation_hi": "आईएमएफ की एसडीआर (SDR) करेंसी बास्केट में पांच मुद्राएं हैं: अमेरिकी डॉलर, यूरो, चीनी युआन (2016 में शामिल), जापानी येन और ब्रिटिश पाउंड स्टर्लिंग।",
+    "examTag": "UPSC Prelims / RBI Grade B / Economy"
+  },
+  {
+    "id": "EXAM-S24-01",
+    "subjectId": "S24",
+    "chapterId": "S24-Cff6d924e",
+    "chapterName": "Central Armed Police Forces & Border Security (सीएपीएफ)",
+    "topicId": "S24-Cff6d924e-Tf273e9e9",
+    "question_en": "Which Central Armed Police Force (CAPF) is specifically mandated to guard India's international borders with Pakistan and Bangladesh?",
+    "question_hi": "भारत की पाकिस्तान और बांग्लादेश के साथ लगने वाली अंतर्राष्ट्रीय सीमाओं की सुरक्षा का दायित्व मुख्य रूप से किस केंद्रीय सशस्त्र पुलिस बल (CAPF) को सौंपा गया है?",
+    "options_en": [
+      "Indo-Tibetan Border Police (ITBP)",
+      "Border Security Force (BSF)",
+      "Sashastra Seema Bal (SSB)",
+      "Central Reserve Police Force (CRPF)"
+    ],
+    "options_hi": [
+      "भारत-तिब्बत सीमा पुलिस (ITBP)",
+      "सीमा सुरक्षा बल (BSF - Border Security Force)",
+      "सशस्त्र सीमा बल (SSB)",
+      "केंद्रीय रिजर्व पुलिस बल (CRPF)"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The Border Security Force (BSF), raised on 1 December 1965, is tasked with securing India's borders with Pakistan (3,323 km) and Bangladesh (4,096.7 km).",
+    "explanation_hi": "1 दिसंबर 1965 को स्थापित सीमा सुरक्षा बल (BSF) भारत की पाकिस्तान और बांग्लादेश से लगती अंतर्राष्ट्रीय सीमाओं पर तैनात मुख्य सीमा रक्षक बल है।",
+    "examTag": "UPSC CAPF / SSC GD / CDS / State PCS"
+  },
+  {
+    "id": "EXAM-S25-01",
+    "subjectId": "S25",
+    "chapterId": "S25-Cebd32d28",
+    "chapterName": "Currency Motifs & Heritage Landmarks (भारतीय नोटों के रूपांकन)",
+    "topicId": "S25-Cebd32d28-Tfa42a019",
+    "question_en": "Which UNESCO World Heritage monument is featured as the reverse motif on the Mahatma Gandhi (New) Series ₹100 currency banknote?",
+    "question_hi": "महात्मा गांधी (नई) श्रृंखला के ₹100 के भारतीय नोट के पीछे (रिवर्स साइड) किस यूनेस्को विश्व धरोहर स्मारक का चित्र अंकित है?",
+    "options_en": [
+      "Hampi Chariot",
+      "Rani ki Vav (The Queen's Stepwell)",
+      "Sun Temple, Konark",
+      "Ellora Caves"
+    ],
+    "options_hi": [
+      "हम्पी का रथ",
+      "रानी की वाव (Rani ki Vav, पाटन)",
+      "कोणार्क का सूर्य मंदिर",
+      "एलोरा की गुफाएं"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The reverse of the lavender-colored ₹100 banknote features 'Rani ki Vav' (an ornate 11th-century stepwell located in Patan, Gujarat, designated a UNESCO World Heritage site).",
+    "explanation_hi": "₹100 के नए लैवेंडर रंग के नोट के पीछे गुजरात के पाटन में स्थित 11वीं सदी की ऐतिहासिक बावड़ी 'रानी की वाव' का चित्र अंकित है, जो यूनेस्को विश्व धरोहर स्थल है।",
+    "examTag": "SSC CGL / Railway / KBC / Banking"
+  },
+  {
+    "id": "EXAM-S26-01",
+    "subjectId": "S26",
+    "chapterId": "S26-C2d838fe4",
+    "chapterName": "The Seven Fundamental SI Base Units (मूल एसआई मात्रक)",
+    "topicId": "S26-C2d838fe4-Tbfe9c929",
+    "question_en": "Which of the following physical quantities is paired INCORRECTLY with its standard SI base unit in the International System of Units?",
+    "question_hi": "अंतर्राष्ट्रीय मात्रक प्रणाली (SI) में निम्नलिखित में से कौन-सी भौतिक राशि अपने मानक मूल मात्रक के साथ सुमेलित नहीं है?",
+    "options_en": [
+      "Luminous Intensity — Candela (cd)",
+      "Thermodynamic Temperature — Celsius (°C)",
+      "Amount of Substance — Mole (mol)",
+      "Electric Current — Ampere (A)"
+    ],
+    "options_hi": [
+      "ज्योति तीव्रता — कैंडेला (cd)",
+      "ऊष्मागतिक ताप — सेल्सियस (°C)",
+      "पदार्थ की मात्रा — मोल (mol)",
+      "विद्युत धारा — एम्पीयर (A)"
+    ],
+    "correctIndex": 1,
+    "explanation_en": "The SI base unit of thermodynamic temperature is the Kelvin (K), not degree Celsius (°C). The 7 SI base units are meter, kilogram, second, ampere, kelvin, mole, and candela.",
+    "explanation_hi": "तापमान का मूल एसआई मात्रक केल्विन (Kelvin - K) है, न कि डिग्री सेल्सियस। सात मूल मात्रक हैं: मीटर, किलोग्राम, सेकंड, एम्पीयर, केल्विन, मोल और कैंडेला।",
+    "examTag": "SSC CGL / NDA / CDS / RRB JE"
+  }
+]

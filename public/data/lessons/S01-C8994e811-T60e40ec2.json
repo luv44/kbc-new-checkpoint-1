@@ -1,0 +1,17 @@
+{
+  "videoId": "vid_S01-C8994e811-T60e40ec2",
+  "topicId": "S01-C8994e811-T60e40ec2",
+  "status": "PROMPT_READY",
+  "targetDurationSec": 180,
+  "narrationHindi": "सर्वे ऑफ इंडिया के अनुसार, भारत की मुख्य भूमि 8°4' उत्तरी अक्षांश से 37°6' उत्तरी अक्षांश तथा 68°7' पूर्वी देशांतर से 97°25' पूर्वी देशांतर के मध्य विस्तृत है।",
+  "factCardIds": [
+    "FC_S01-C8994e811-T60e40ec2"
+  ],
+  "learningObjectives": [
+    "concept_S01-C8994e811-T60e40ec2_0",
+    "concept_S01-C8994e811-T60e40ec2_1",
+    "concept_S01-C8994e811-T60e40ec2_2",
+    "concept_S01-C8994e811-T60e40ec2_3"
+  ],
+  "scenes": []
+}

@@ -1,0 +1,17 @@
+{
+  "videoId": "vid_S01-C4d19bee9-T35a8071f",
+  "topicId": "S01-C4d19bee9-T35a8071f",
+  "status": "PROMPT_READY",
+  "targetDurationSec": 180,
+  "narrationHindi": "1,465 किमी लंबी गोदावरी भारत की सबसे लंबी प्रायद्वीपीय नदी है। यह महाराष्ट्र के त्र्यंबकेश्वर से निकलकर बंगाल की खाड़ी में गिरती है।",
+  "factCardIds": [
+    "FC_S01-C4d19bee9-T35a8071f"
+  ],
+  "learningObjectives": [
+    "concept_S01-C4d19bee9-T35a8071f_0",
+    "concept_S01-C4d19bee9-T35a8071f_1",
+    "concept_S01-C4d19bee9-T35a8071f_2",
+    "concept_S01-C4d19bee9-T35a8071f_3"
+  ],
+  "scenes": []
+}

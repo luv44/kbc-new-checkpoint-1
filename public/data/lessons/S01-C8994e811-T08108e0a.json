@@ -1,0 +1,17 @@
+{
+  "videoId": "vid_S01-C8994e811-T08108e0a",
+  "topicId": "S01-C8994e811-T08108e0a",
+  "status": "PROMPT_READY",
+  "targetDurationSec": 180,
+  "narrationHindi": "ग्रेट निकोबार द्वीप में 6°45' उत्तरी अक्षांश पर स्थित इंदिरा पॉइंट भारत का सबसे दक्षिणी बिंदु है। मुख्य भूमि का सबसे दक्षिणी छोर कन्याकुमारी है।",
+  "factCardIds": [
+    "FC_S01-C8994e811-T08108e0a"
+  ],
+  "learningObjectives": [
+    "concept_S01-C8994e811-T08108e0a_0",
+    "concept_S01-C8994e811-T08108e0a_1",
+    "concept_S01-C8994e811-T08108e0a_2",
+    "concept_S01-C8994e811-T08108e0a_3"
+  ],
+  "scenes": []
+}

@@ -1,0 +1,17 @@
+{
+  "videoId": "vid_S01-C4d19bee9-T0132a4d2",
+  "topicId": "S01-C4d19bee9-T0132a4d2",
+  "status": "PROMPT_READY",
+  "targetDurationSec": 180,
+  "narrationHindi": "भूमध्य सागर से उत्पन्न होने वाले पश्चिमी विक्षोभ उत्तर-पश्चिम भारत में शीतकालीन वर्षा लाते हैं, जो रबी की गेहूं की फसल के लिए अत्यंत लाभदायक होती है।",
+  "factCardIds": [
+    "FC_S01-C4d19bee9-T0132a4d2"
+  ],
+  "learningObjectives": [
+    "concept_S01-C4d19bee9-T0132a4d2_0",
+    "concept_S01-C4d19bee9-T0132a4d2_1",
+    "concept_S01-C4d19bee9-T0132a4d2_2",
+    "concept_S01-C4d19bee9-T0132a4d2_3"
+  ],
+  "scenes": []
+}

@@ -1,0 +1,17 @@
+{
+  "videoId": "video_S07-C81cde124-T8ce1b739",
+  "topicId": "S07-C81cde124-T8ce1b739",
+  "status": "ready",
+  "targetDurationSec": 90,
+  "narrationHindi": "जीडीपी गणना की विधियां: उत्पादन (मूल्य संवर्धन), आय एवं व्यय विधि (GDP Calculation Approaches: Production, Income & Expenditure Methods)। व्यय विधि में X निर्यात (Exports) और M आयात (Imports) को दर्शाता है; अतः (X - M) देश के शुद्ध निर्यात (Net Exports) का प्रतिनिधित्व करता है। प्रमुख अवधारणाएं: उत्पादन विधि (सकल मूल्य संवर्धन - GVA): GVA = कुल उत्पादन मूल्य - मध्यवर्ती उपभोग। आय विधि: कर्मचारियों का पारिश्रमिक + किराया + ब्याज + लाभ का कुल योग। व्यय विधि: GDP = C + I + G + (X - M) [निजी उपभोग + सकल निवेश + सरकारी व्यय + शुद्ध निर्यात]। सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय (MoSPI) का राष्ट्रीय सांख्यिकी कार्यालय (NSO) जीडीपी आंकड़े जारी करता है। स्मरणीय सूत्र: (X - M) = शुद्ध निर्यात (निर्यात - आयात)।",
+  "factCardIds": [
+    "fc_S07-C81cde124-T8ce1b739"
+  ],
+  "learningObjectives": [
+    "concept_S07-C81cde124-T8ce1b739_0",
+    "concept_S07-C81cde124-T8ce1b739_1",
+    "concept_S07-C81cde124-T8ce1b739_2",
+    "concept_S07-C81cde124-T8ce1b739_3"
+  ],
+  "scenes": []
+}

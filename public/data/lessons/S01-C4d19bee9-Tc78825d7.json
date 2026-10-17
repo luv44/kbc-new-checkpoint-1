@@ -1,0 +1,17 @@
+{
+  "videoId": "vid_S01-C4d19bee9-Tc78825d7",
+  "topicId": "S01-C4d19bee9-Tc78825d7",
+  "status": "PROMPT_READY",
+  "targetDurationSec": 180,
+  "narrationHindi": "उत्तराखंड के देवप्रयाग में भागीरथी और अलकनंदा का संगम होता है, जिसके बाद इसे आधिकारिक रूप से 'गंगा' के नाम से जाना जाता है।",
+  "factCardIds": [
+    "FC_S01-C4d19bee9-Tc78825d7"
+  ],
+  "learningObjectives": [
+    "concept_S01-C4d19bee9-Tc78825d7_0",
+    "concept_S01-C4d19bee9-Tc78825d7_1",
+    "concept_S01-C4d19bee9-Tc78825d7_2",
+    "concept_S01-C4d19bee9-Tc78825d7_3"
+  ],
+  "scenes": []
+}

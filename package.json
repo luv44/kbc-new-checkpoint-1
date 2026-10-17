@@ -1,1 +1,33 @@
-{"name":"crorepati-revision-v2","version":"0.1.0","private":true,"type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"tsc -b && node scripts/build.mjs","preview":"vite preview --host 127.0.0.1","validate":"node scripts/validate.mjs","test":"node --test tests/*.test.mjs"},"dependencies":{"fast-xml-parser":"5.11.2","idb":"8.0.3","lucide-react":"0.468.0","react":"19.1.1","react-dom":"19.1.1","react-router-dom":"7.9.1"},"devDependencies":{"@axe-core/playwright":"4.10.2","@playwright/test":"1.55.1","@types/react":"19.1.13","@types/react-dom":"19.1.9","@vitejs/plugin-react":"5.0.3","esbuild":"0.25.12","typescript":"5.9.2","vite":"7.1.7"}}
+{
+  "name": "crorepati-revision-v2",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && node scripts/build.mjs",
+    "preview": "vite preview",
+    "validate": "node scripts/validate.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "generate": "node scripts/generate.mjs --engine auto --target 40",
+    "build:data": "node scripts/build-data.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "5.11.2",
+    "idb": "8.0.3",
+    "lucide-react": "0.468.0",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "react-router-dom": "7.9.1"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.10.2",
+    "@playwright/test": "1.55.1",
+    "@types/react": "19.1.13",
+    "@types/react-dom": "19.1.9",
+    "@vitejs/plugin-react": "5.0.3",
+    "esbuild": "0.25.12",
+    "typescript": "5.9.2",
+    "vite": "7.1.7"
+  }
+}

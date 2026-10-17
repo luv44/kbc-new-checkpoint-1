@@ -1,0 +1,17 @@
+{
+  "videoId": "vid_S01-C8994e811-T3e34ee56",
+  "topicId": "S01-C8994e811-T3e34ee56",
+  "status": "PROMPT_READY",
+  "targetDurationSec": 180,
+  "narrationHindi": "82°30' पूर्वी देशांतर रेखा पांच राज्यों से गुजरती है: उत्तर प्रदेश (मिर्जापुर), मध्य प्रदेश, छत्तीसगढ़, ओडिशा और आंध्र प्रदेश। यह IST को UTC+05:30 पर निर्धारित करती है।",
+  "factCardIds": [
+    "FC_S01-C8994e811-T3e34ee56"
+  ],
+  "learningObjectives": [
+    "concept_S01-C8994e811-T3e34ee56_0",
+    "concept_S01-C8994e811-T3e34ee56_1",
+    "concept_S01-C8994e811-T3e34ee56_2",
+    "concept_S01-C8994e811-T3e34ee56_3"
+  ],
+  "scenes": []
+}

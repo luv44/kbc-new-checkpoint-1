@@ -1,0 +1,17 @@
+{
+  "videoId": "vid_S01-C4d19bee9-T3359b180",
+  "topicId": "S01-C4d19bee9-T3359b180",
+  "status": "PROMPT_READY",
+  "targetDurationSec": 180,
+  "narrationHindi": "नर्मदा नदी उत्तर में विंध्याचल श्रेणी और दक्षिण में सतपुड़ा श्रेणी के बीच एक भ्रंश घाटी में पश्चिम की ओर बहती है।",
+  "factCardIds": [
+    "FC_S01-C4d19bee9-T3359b180"
+  ],
+  "learningObjectives": [
+    "concept_S01-C4d19bee9-T3359b180_0",
+    "concept_S01-C4d19bee9-T3359b180_1",
+    "concept_S01-C4d19bee9-T3359b180_2",
+    "concept_S01-C4d19bee9-T3359b180_3"
+  ],
+  "scenes": []
+}

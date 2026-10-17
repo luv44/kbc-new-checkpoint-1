@@ -1,0 +1,17 @@
+{
+  "videoId": "video_S02-C4b3f8fdc-T5c89c160",
+  "topicId": "S02-C4b3f8fdc-T5c89c160",
+  "status": "ready",
+  "targetDurationSec": 90,
+  "narrationHindi": "डिजिटल सार्वजनिक अवसंरचना: यूपीआई का वैश्विक विस्तार एवं ओएनडीसी (Digital Public Infrastructure: UPI Global Expansion & ONDC)। एनपीसीआई (भारतीय राष्ट्रीय भुगतान निगम), जो 2008 में स्थापित हुआ, यूपीआई, रुपे, आईएमपीएस और फास्टैग जैसी प्रणालियों का संचालन करता है। प्रमुख अवधारणाएं: एनपीसीआई द्वारा विकसित एकीकृत भुगतान इंटरफेस (UPI)। अंतर्राष्ट्रीय जुड़ाव (सिंगापुर पेनाउ, फ्रांस, यूएई, श्रीलंका, मॉरीशस)। डिजिटल कॉमर्स हेतु ओपन नेटवर्क (ONDC)। इंडिया स्टैक डिजिटल मॉडल। स्मरणीय सूत्र: यूपीआई और रुपे = एनपीसीआई (NPCI)।",
+  "factCardIds": [
+    "fc_S02-C4b3f8fdc-T5c89c160"
+  ],
+  "learningObjectives": [
+    "concept_S02-C4b3f8fdc-T5c89c160_0",
+    "concept_S02-C4b3f8fdc-T5c89c160_1",
+    "concept_S02-C4b3f8fdc-T5c89c160_2",
+    "concept_S02-C4b3f8fdc-T5c89c160_3"
+  ],
+  "scenes": []
+}

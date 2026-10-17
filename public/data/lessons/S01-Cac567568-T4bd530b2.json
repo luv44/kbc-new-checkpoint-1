@@ -1,0 +1,17 @@
+{
+  "videoId": "vid_S01-Cac567568-T4bd530b2",
+  "topicId": "S01-Cac567568-T4bd530b2",
+  "status": "PROMPT_READY",
+  "targetDurationSec": 180,
+  "narrationHindi": "सिक्किम में स्थित कंचनजंघा (8,586 मीटर) भारत द्वारा प्रशासित सबसे ऊंची चोटी है। नंदा देवी पूरी तरह से बिना किसी अंतरराष्ट्रीय सीमा साझा किए भारत के भीतर स्थित सबसे ऊंची चोटी है।",
+  "factCardIds": [
+    "FC_S01-Cac567568-T4bd530b2"
+  ],
+  "learningObjectives": [
+    "concept_S01-Cac567568-T4bd530b2_0",
+    "concept_S01-Cac567568-T4bd530b2_1",
+    "concept_S01-Cac567568-T4bd530b2_2",
+    "concept_S01-Cac567568-T4bd530b2_3"
+  ],
+  "scenes": []
+}

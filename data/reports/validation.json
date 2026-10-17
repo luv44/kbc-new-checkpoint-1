@@ -1,0 +1,59 @@
+{
+  "builtAt": "2026-10-17T19:11:03.470Z",
+  "counts": {
+    "active": 13800,
+    "topics": 345,
+    "preserved": 1895,
+    "removedSI": 50,
+    "siMcqs": 400,
+    "exams": 10
+  },
+  "checks": [
+    {
+      "name": "40 active questions per topic",
+      "ok": true,
+      "detail": "345 topics, 0 off target"
+    },
+    {
+      "name": "four options + answer key + bilingual stems",
+      "ok": true,
+      "detail": "0 malformed of 13800"
+    },
+    {
+      "name": "no duplicate question ids",
+      "ok": true,
+      "detail": "0 duplicates"
+    },
+    {
+      "name": "no link-only stems",
+      "ok": true,
+      "detail": "0 found"
+    },
+    {
+      "name": "zero SI-unit questions in the preserved bank",
+      "ok": true,
+      "detail": "1895 records, 0 SI remain"
+    },
+    {
+      "name": "every SI-unit question has a left/right MCQ",
+      "ok": true,
+      "detail": "400 SI questions, 400 MCQs, 0 uncovered"
+    },
+    {
+      "name": "per-exam chapter exports exist",
+      "ok": true,
+      "detail": "10 exam folders"
+    },
+    {
+      "name": "every exported topic carries 40 questions",
+      "ok": true,
+      "detail": "0 problems"
+    },
+    {
+      "name": "syllabus index covers every exam",
+      "ok": true,
+      "detail": "10 profiles"
+    }
+  ],
+  "passed": true
+}

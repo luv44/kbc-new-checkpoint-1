@@ -1,0 +1,620 @@
+[
+  {
+    "id": "S01",
+    "code": "S01",
+    "name_en": "India Basics & Physical Geography",
+    "name_hi": "भारत का सामान्य परिचय एवं भौतिक भूगोल",
+    "chapters": [
+      {
+        "id": "S01-C8994e811",
+        "name_en": "Geographical Location, Borders & Extremities",
+        "name_hi": "भौगोलिक अवस्थिति, सीमाएं एवं सुदूरतम बिंदु"
+      },
+      {
+        "id": "S01-Cac567568",
+        "name_en": "Physiographic Divisions & Mountain Ranges",
+        "name_hi": "भौतिक विभाजन एवं पर्वत श्रृंखलाएं"
+      },
+      {
+        "id": "S01-C4d19bee9",
+        "name_en": "Drainage Systems, Rivers & Island Groups",
+        "name_hi": "अपवाह तंत्र, नदियां एवं द्वीप समूह"
+      }
+    ]
+  },
+  {
+    "id": "S02",
+    "code": "S02",
+    "name_en": "Current Affairs & Contemporary Events",
+    "name_hi": "समसामयिक घटनाक्रम एवं राष्ट्रीय-अंतर्राष्ट्रीय मुद्दे",
+    "chapters": [
+      {
+        "id": "S02-Cda5068db",
+        "name_en": "National Policies, Summits & Government Initiatives",
+        "name_hi": "राष्ट्रीय नीतियां, शिखर सम्मेलन एवं सरकारी पहल"
+      },
+      {
+        "id": "S02-Cd08481ed",
+        "name_en": "International Bilateral Relations & Treaties",
+        "name_hi": "द्विपक्षीय संबंध, संधियां एवं वैश्विक घटनाएं"
+      },
+      {
+        "id": "S02-C4b3f8fdc",
+        "name_en": "Science, Technology, Defence & Space Developments",
+        "name_hi": "विज्ञान, प्रौद्योगिकी, रक्षा एवं अंतरिक्ष विकास"
+      }
+    ]
+  },
+  {
+    "id": "S03",
+    "code": "S03",
+    "name_en": "Ancient Indian History & Archaeology",
+    "name_hi": "प्राचीन भारत का इतिहास एवं पुरातत्व",
+    "chapters": [
+      {
+        "id": "S03-Cf57dd5c3",
+        "name_en": "Prehistoric Periods & Indus Valley Civilization",
+        "name_hi": "प्रागैतिहासिक काल एवं सिंधु घाटी सभ्यता"
+      },
+      {
+        "id": "S03-C6d03bcc2",
+        "name_en": "Vedic Period, Upanishads & Mahajanapadas",
+        "name_hi": "वैदिक काल, उपनिषद एवं 16 महाजनपद"
+      },
+      {
+        "id": "S03-C4734d498",
+        "name_en": "Buddhism, Jainism & Religious Movements",
+        "name_hi": "बौद्ध धर्म, जैन धर्म एवं धार्मिक आंदोलन"
+      },
+      {
+        "id": "S03-C8a2f389f",
+        "name_en": "Mauryan Empire, Administration & Ashokan Edicts",
+        "name_hi": "मौर्य साम्राज्य, प्रशासन एवं अशोक के अभिलेख"
+      },
+      {
+        "id": "S03-C9ba1a621",
+        "name_en": "Post-Mauryan, Guptas, Harsha & Sangam Dynasties",
+        "name_hi": "मौर्योत्तर काल, गुप्त साम्राज्य, हर्ष एवं संगम राजवंश"
+      }
+    ]
+  },
+  {
+    "id": "S04",
+    "code": "S04",
+    "name_en": "Medieval & Modern Indian History",
+    "name_hi": "मध्यकालीन एवं आधुनिक भारतीय इतिहास",
+    "chapters": [
+      {
+        "id": "S04-C4112654a",
+        "name_en": "Early Medieval India, Delhi Sultanate Dynasties",
+        "name_hi": "पूर्व मध्यकालीन भारत एवं दिल्ली सल्तनत"
+      },
+      {
+        "id": "S04-Ccead5806",
+        "name_en": "Mughal Empire: Polity, Economy & Architecture",
+        "name_hi": "मुगल साम्राज्य: प्रशासन, अर्थव्यवस्था एवं स्थापत्य"
+      },
+      {
+        "id": "S04-C780a1737",
+        "name_en": "Vijayanagara Empire, Marathas & Regional Powers",
+        "name_hi": "विजयनगर साम्राज्य, मराठा एवं क्षेत्रीय शक्तियां"
+      },
+      {
+        "id": "S04-C511c1907",
+        "name_en": "Advent of Europeans, British Expansion & Battles",
+        "name_hi": "यूरोपीय आगमन, ब्रिटिश विस्तार एवं प्रमुख युद्ध"
+      },
+      {
+        "id": "S04-C2a69d8ec",
+        "name_en": "Revolt of 1857 & Socio-Religious Reformers",
+        "name_hi": "1857 का विद्रोह एवं सामाजिक-धार्मिक सुधारक"
+      },
+      {
+        "id": "S04-Cacadfdde",
+        "name_en": "Indian National Movement & Independence (1885–1947)",
+        "name_hi": "भारतीय राष्ट्रीय आंदोलन एवं स्वतंत्रता (1885-1947)"
+      }
+    ]
+  },
+  {
+    "id": "S05",
+    "code": "S05",
+    "name_en": "Indian Polity & Constitutional Framework",
+    "name_hi": "भारतीय राजव्यवस्था एवं संवैधानिक ढांचा",
+    "chapters": [
+      {
+        "id": "S05-Cd1fc9546",
+        "name_en": "Constitutional Evolution, Constituent Assembly & Preamble",
+        "name_hi": "संविधान निर्माण, संविधान सभा एवं प्रस्तावना"
+      },
+      {
+        "id": "S05-C2da5cfd3",
+        "name_en": "Fundamental Rights, Directive Principles & Fundamental Duties",
+        "name_hi": "मौलिक अधिकार, नीति-निर्देशक तत्व एवं मौलिक कर्तव्य"
+      },
+      {
+        "id": "S05-C4d9a5be9",
+        "name_en": "Union Executive: President, PM & Council of Ministers",
+        "name_hi": "केंद्रीय कार्यपालिका: राष्ट्रपति, प्रधानमंत्री एवं मंत्रिपरिषद"
+      },
+      {
+        "id": "S05-Cc13f58d9",
+        "name_en": "Union Parliament & Integrated Judicial System",
+        "name_hi": "संसद एवं एकीकृत न्यायपालिका (सुप्रीम कोर्ट/हाई कोर्ट)"
+      }
+    ]
+  },
+  {
+    "id": "S06",
+    "code": "S06",
+    "name_en": "Governance, Panchayati Raj & Union Administration",
+    "name_hi": "शासन, पंचायती राज एवं केंद्र शासित प्रदेश प्रशासन",
+    "chapters": [
+      {
+        "id": "S06-C4397a951",
+        "name_en": "Panchayati Raj System (Part IX, 73rd Amendment)",
+        "name_hi": "पंचायती राज संस्थाएं (भाग IX, 73वां संशोधन)"
+      },
+      {
+        "id": "S06-C5c3ba939",
+        "name_en": "Municipalities & Urban Local Bodies (Part IXA, 74th Amendment)",
+        "name_hi": "नगर पालिकाएं एवं शहरी स्थानीय निकाय (भाग IXA)"
+      },
+      {
+        "id": "S06-Cbd122131",
+        "name_en": "Administration of Union Territories & Special Areas",
+        "name_hi": "केंद्र शासित प्रदेश एवं अनुसूचित/जनजातीय क्षेत्र"
+      },
+      {
+        "id": "S06-C22b72712",
+        "name_en": "Constitutional & Statutory Bodies, Tribunals & CAG",
+        "name_hi": "संवैधानिक व संविधिक निकाय, चुनाव आयोग एवं सीएजी"
+      }
+    ]
+  },
+  {
+    "id": "S07",
+    "code": "S07",
+    "name_en": "Indian Economy, Banking & Public Finance",
+    "name_hi": "भारतीय अर्थव्यवस्था, बैंकिंग एवं सार्वजनिक वित्त",
+    "chapters": [
+      {
+        "id": "S07-C81cde124",
+        "name_en": "National Income Accounting, GDP & Inflation Metrics",
+        "name_hi": "राष्ट्रीय आय, जीडीपी एवं मुद्रास्फीति सूचकांक"
+      },
+      {
+        "id": "S07-Cef3bcdf8",
+        "name_en": "Reserve Bank of India, Monetary Policy & Banking Architecture",
+        "name_hi": "भारतीय रिज़र्व बैंक, मौद्रिक नीति एवं बैंकिंग संरचना"
+      },
+      {
+        "id": "S07-Cd8d761ef",
+        "name_en": "Union Budget, Fiscal Policy, Taxation & GST",
+        "name_hi": "केंद्रीय बजट, राजकोषीय नीति, कराधान एवं जीएसटी"
+      }
+    ]
+  },
+  {
+    "id": "S08",
+    "code": "S08",
+    "name_en": "World Geography & Physical Landforms",
+    "name_hi": "विश्व भूगोल एवं भौतिक भू-आकृतियां",
+    "chapters": [
+      {
+        "id": "S08-C9270c63f",
+        "name_en": "Interior of Earth, Plate Tectonics & Volcanism",
+        "name_hi": "पृथ्वी की आंतरिक संरचना, प्लेट विवर्तनिकी एवं ज्वालामुखी"
+      },
+      {
+        "id": "S08-Cde0152f9",
+        "name_en": "Oceanography: Relief, Currents, Salinity & Tides",
+        "name_hi": "समुद्र विज्ञान: समुद्री धाराएं, लवणता एवं ज्वार-भाटा"
+      },
+      {
+        "id": "S08-C062cef1d",
+        "name_en": "Atmosphere, Pressure Belts, Winds & Climate Zones",
+        "name_hi": "वायुमंडल, वायुदाब पेटियां, पवनें एवं जलवायु क्षेत्र"
+      }
+    ]
+  },
+  {
+    "id": "S09",
+    "code": "S09",
+    "name_en": "Environment, Ecology & Biodiversity",
+    "name_hi": "पर्यावरण, पारिस्थितिकी एवं जैव विविधता",
+    "chapters": [
+      {
+        "id": "S09-C3ee11016",
+        "name_en": "Ecosystem Concepts, Food Webs & Ecological Pyramids",
+        "name_hi": "पारिस्थितिकी तंत्र, खाद्य जाल एवं पारिस्थितिक पिरामिड"
+      },
+      {
+        "id": "S09-C327a7380",
+        "name_en": "Biodiversity, National Parks, Wildlife Sanctuaries & Ramsar Sites",
+        "name_hi": "जैव विविधता, राष्ट्रीय उद्यान, वन्यजीव अभयारण्य एवं रामसर स्थल"
+      },
+      {
+        "id": "S09-Cba335bae",
+        "name_en": "Climate Change, Global Treaties & Environmental Legislation",
+        "name_hi": "जलवायु परिवर्तन, अंतर्राष्ट्रीय सम्मेलन एवं पर्यावरण कानून"
+      }
+    ]
+  },
+  {
+    "id": "S10",
+    "code": "S10",
+    "name_en": "General Science: Physics",
+    "name_hi": "सामान्य विज्ञान: भौतिक विज्ञान",
+    "chapters": [
+      {
+        "id": "S10-C0f1997cd",
+        "name_en": "Mechanics, Gravitation, Work, Power & Energy",
+        "name_hi": "यांत्रिकी, गुरुत्वाकर्षण, कार्य, शक्ति एवं ऊर्जा"
+      },
+      {
+        "id": "S10-Cc1c9f435",
+        "name_en": "Wave Motion, Sound, Optics & Light Reflection/Refraction",
+        "name_hi": "तरंग गति, ध्वनि, प्रकाशिकी एवं अपवर्तन/परावर्तन"
+      },
+      {
+        "id": "S10-C64dfa5ec",
+        "name_en": "Heat, Thermodynamics, Electromagnetism & Modern Physics",
+        "name_hi": "ऊष्मा, ऊष्मागतिकी, विद्युत, चुंबकत्व एवं आधुनिक भौतिकी"
+      }
+    ]
+  },
+  {
+    "id": "S11",
+    "code": "S11",
+    "name_en": "General Science: Chemistry",
+    "name_hi": "सामान्य विज्ञान: रसायन विज्ञान",
+    "chapters": [
+      {
+        "id": "S11-C7bd7bee9",
+        "name_en": "Atomic Structure, Chemical Bonding & Periodic Table",
+        "name_hi": "परमाणु संरचना, रासायनिक बंधन एवं आवर्त सारणी"
+      },
+      {
+        "id": "S11-C917a7c20",
+        "name_en": "Acids, Bases, Salts, Metals, Non-Metals & Organic Compounds",
+        "name_hi": "अम्ल, क्षार, लवण, धातु, अधातु एवं कार्बनिक यौगिक"
+      }
+    ]
+  },
+  {
+    "id": "S12",
+    "code": "S12",
+    "name_en": "General Science: Biology & Human Physiology",
+    "name_hi": "सामान्य विज्ञान: जीव विज्ञान एवं मानव शरीर क्रिया विज्ञान",
+    "chapters": [
+      {
+        "id": "S12-Ce9c56ff6",
+        "name_en": "Cytology, Cell Organelles & Genetics",
+        "name_hi": "कोशिका विज्ञान, कोशिकांग एवं आनुवंशिकी"
+      },
+      {
+        "id": "S12-Caa1e76e7",
+        "name_en": "Human Organ Systems: Circulatory, Nervous, Endocrine & Digestive",
+        "name_hi": "मानव अंग तंत्र: परिसंचरण, तंत्रिका, अंतःस्रावी एवं पाचन"
+      },
+      {
+        "id": "S12-C7b539aa0",
+        "name_en": "Plant Anatomy, Photosynthesis & Plant Hormones",
+        "name_hi": "पादप शारीरिकी, प्रकाश संश्लेषण एवं पादप हार्मोन"
+      },
+      {
+        "id": "S12-C60e112b2",
+        "name_en": "Infectious Diseases, Pathogens, Vaccines & Nutrition",
+        "name_hi": "संक्रामक रोग, रोगाणु, टीके, पोषण एवं विटामिन्स"
+      }
+    ]
+  },
+  {
+    "id": "S13",
+    "code": "S13",
+    "name_en": "Information Technology & Computer Science",
+    "name_hi": "सूचना प्रौद्योगिकी एवं कंप्यूटर विज्ञान",
+    "chapters": [
+      {
+        "id": "S13-C3b0201a3",
+        "name_en": "Computer Fundamentals, Memory Hierarchy & Operating Systems",
+        "name_hi": "कंप्यूटर मूल सिद्धांत, मेमोरी पदानुक्रम एवं ऑपरेटिंग सिस्टम"
+      },
+      {
+        "id": "S13-C8395c7f1",
+        "name_en": "Networking, OSI Model, TCP/IP & DNS Protocols",
+        "name_hi": "नेटवर्किंग, ओएसआई मॉडल, टीसीपी/आईपी एवं डीएनएस"
+      },
+      {
+        "id": "S13-C21e5550f",
+        "name_en": "Cybersecurity, Cryptography, Cloud Computing & AI Basics",
+        "name_hi": "साइबर सुरक्षा, क्रिप्टोग्राफी, क्लाउड एवं एआई"
+      }
+    ]
+  },
+  {
+    "id": "S14",
+    "code": "S14",
+    "name_en": "Space Science, Astronomy & Space Missions",
+    "name_hi": "अंतरिक्ष विज्ञान, खगोलिकी एवं अंतरिक्ष अन्वेषण",
+    "chapters": [
+      {
+        "id": "S14-Cc877e372",
+        "name_en": "The Solar System, Planetary Characteristics & The Sun",
+        "name_hi": "सौरमंडल, ग्रहों की विशेषताएं एवं सूर्य संरचना"
+      },
+      {
+        "id": "S14-C268685b0",
+        "name_en": "Historic Space Missions: Apollo, Voyagers & Space Telescopes",
+        "name_hi": "ऐतिहासिक अंतरिक्ष मिशन: अपोलो, वॉयजर एवं हबल/जेम्स वेब"
+      },
+      {
+        "id": "S14-Cc150b231",
+        "name_en": "ISRO Launch Vehicles, Chandrayaan, Mangalyaan & Gaganyaan",
+        "name_hi": "इसरो प्रक्षेपण यान, चंद्रयान, मंगलयान एवं गगनयान"
+      }
+    ]
+  },
+  {
+    "id": "S15",
+    "code": "S15",
+    "name_en": "World History & Major Revolutions",
+    "name_hi": "विश्व इतिहास एवं प्रमुख क्रांतियां",
+    "chapters": [
+      {
+        "id": "S15-Cc19ffbe1",
+        "name_en": "Classical Civilizations: Mesopotamia, Egypt, Greece & Rome",
+        "name_hi": "प्राचीन विश्व सभ्यताएं: मेसोपोटामिया, मिस्र, यूनान व रोम"
+      },
+      {
+        "id": "S15-C4a2b9352",
+        "name_en": "Renaissance, Enlightenment, American & French Revolutions",
+        "name_hi": "पुनर्जागरण, प्रबोधन, अमेरिकी व फ्रांसीसी क्रांतियां"
+      },
+      {
+        "id": "S15-C8922c19d",
+        "name_en": "World War I, Russian Revolution, World War II & Cold War",
+        "name_hi": "प्रथम विश्व युद्ध, रूसी क्रांति, द्वितीय विश्व युद्ध एवं शीत युद्ध"
+      }
+    ]
+  },
+  {
+    "id": "S16",
+    "code": "S16",
+    "name_en": "International Organizations & Treaties",
+    "name_hi": "अंतर्राष्ट्रीय संगठन एवं वैश्विक संधियां",
+    "chapters": [
+      {
+        "id": "S16-Cb8158434",
+        "name_en": "United Nations: Charter, General Assembly & Security Council",
+        "name_hi": "संयुक्त राष्ट्र संघ: चार्टर, महासभा एवं सुरक्षा परिषद"
+      },
+      {
+        "id": "S16-C3cea2eaa",
+        "name_en": "Bretton Woods Institutions: World Bank Group & IMF Structure",
+        "name_hi": "ब्रेटन वुड्स संस्थाएं: विश्व बैंक समूह एवं आईएमएफ संरचना"
+      },
+      {
+        "id": "S16-C865f07fa",
+        "name_en": "Global & Regional Blocs: G20, BRICS, ASEAN, SCO & WTO",
+        "name_hi": "वैश्विक व क्षेत्रीय समूह: जी20, ब्रिक्स, आसियान, एससीओ व डब्ल्यूटीओ"
+      }
+    ]
+  },
+  {
+    "id": "S17",
+    "code": "S17",
+    "name_en": "Indian Art, Architecture & Cultural Heritage",
+    "name_hi": "भारतीय कला, स्थापत्य एवं सांस्कृतिक विरासत",
+    "chapters": [
+      {
+        "id": "S17-C0375a3bf",
+        "name_en": "Indian Temple Architecture: Nagara, Dravida & Vesara Styles",
+        "name_hi": "भारतीय मंदिर स्थापत्य: नागर, द्रविड़ एवं वेसर शैलियां"
+      },
+      {
+        "id": "S17-C47d03ca3",
+        "name_en": "Classical Dances, Folk Forms, Music & UNESCO Heritage Sites",
+        "name_hi": "शास्त्रीय नृत्य, लोक कलाएं, संगीत एवं यूनेस्को धरोहर स्थल"
+      }
+    ]
+  },
+  {
+    "id": "S18",
+    "code": "S18",
+    "name_en": "World & Indian Literature",
+    "name_hi": "विश्व एवं भारतीय साहित्य",
+    "chapters": [
+      {
+        "id": "S18-C2b02f8ee",
+        "name_en": "Ancient Sanskrit Classics, Epics & Dramas (Kalidasa, Bhasa)",
+        "name_hi": "प्राचीन संस्कृत महाकाव्य एवं नाटक (कालिदास, भास)"
+      },
+      {
+        "id": "S18-Cd793f594",
+        "name_en": "Modern Indian Literature: Tagore, Premchand & Regional Maestros",
+        "name_hi": "आधुनिक भारतीय साहित्य: रवींद्रनाथ टैगोर, प्रेमचंद एवं साहित्यकार"
+      },
+      {
+        "id": "S18-C19aab9fd",
+        "name_en": "World Literary Masterpieces & Nobel Laureates in Literature",
+        "name_hi": "विश्व कालजयी कृतियां एवं साहित्य में नोबेल पुरस्कार विजेता"
+      }
+    ]
+  },
+  {
+    "id": "S19",
+    "code": "S19",
+    "name_en": "Sports, Games & International Championships",
+    "name_hi": "खेलकूद एवं अंतर्राष्ट्रीय प्रतियोगिताएं",
+    "chapters": [
+      {
+        "id": "S19-C03e5a72a",
+        "name_en": "Olympic Games, Commonwealth Games & Asian Games",
+        "name_hi": "ओलंपिक खेल, राष्ट्रमंडल खेल एवं एशियाई खेल"
+      },
+      {
+        "id": "S19-C8da61983",
+        "name_en": "Chess Regulations (FIDE), World Champions & Chess Olympiads",
+        "name_hi": "शतरंज के नियम (FIDE), विश्व चैंपियन एवं शतरंज ओलंपियाड"
+      },
+      {
+        "id": "S19-C73a11e71",
+        "name_en": "Cricket, Football World Cups, Tennis Grand Slams & Athletics",
+        "name_hi": "क्रिकेट, फीफा विश्व कप, टेनिस ग्रैंड स्लैम एवं एथलेटिक्स"
+      },
+      {
+        "id": "S19-Cb1b9a7ce",
+        "name_en": "National Sports Awards (Khel Ratna, Arjuna) & Traditional Sports",
+        "name_hi": "राष्ट्रीय खेल पुरस्कार (खेल रत्न, अर्जुन) एवं पारंपरिक खेल"
+      }
+    ]
+  },
+  {
+    "id": "S20",
+    "code": "S20",
+    "name_en": "Cinema, Theatre & Performing Arts",
+    "name_hi": "सिनेमा, रंगमंच एवं प्रदर्शनकारी कलाएं",
+    "chapters": [
+      {
+        "id": "S20-Ca04b08c0",
+        "name_en": "Origins & Technical Milestones of World & Indian Cinema",
+        "name_hi": "विश्व एवं भारतीय सिनेमा की शुरुआत व तकनीकी विकास"
+      },
+      {
+        "id": "S20-C8dd4bb3c",
+        "name_en": "National Film Awards, Dadasaheb Phalke & Academy Awards (Oscars)",
+        "name_hi": "राष्ट्रीय फिल्म पुरस्कार, दादासाहेब फाल्के एवं ऑस्कर पुरस्कार"
+      }
+    ]
+  },
+  {
+    "id": "S21",
+    "code": "S21",
+    "name_en": "Awards, Honors & National/International Distinctions",
+    "name_hi": "प्रमुख पुरस्कार, सम्मान एवं नागरिक अलंकरण",
+    "chapters": [
+      {
+        "id": "S21-C7f420f5a",
+        "name_en": "Bharat Ratna, Padma Awards & Wartime/Peacetime Gallantry Awards",
+        "name_hi": "भारत रत्न, पद्म पुरस्कार एवं वीरता पुरस्कार (परमवीर चक्र आदि)"
+      },
+      {
+        "id": "S21-Ce927e9b3",
+        "name_en": "Nobel Prizes: Will, Physics, Chemistry, Medicine, Peace & Economics",
+        "name_hi": "नोबेल पुरस्कार: इतिहास, श्रेणियां एवं भारतीय नोबेल विजेता"
+      },
+      {
+        "id": "S21-C1ef02426",
+        "name_en": "Literary & Scientific Honors: Jnanpith, Booker, Fields Medal, Abel",
+        "name_hi": "ज्ञानपीठ, साहित्य अकादमी, बुकर, फील्ड्स मेडल एवं एबेल पुरस्कार"
+      }
+    ]
+  },
+  {
+    "id": "S22",
+    "code": "S22",
+    "name_en": "World Religions, Philosophies & Mythologies",
+    "name_hi": "विश्व के प्रमुख धर्म, दर्शन एवं पौराणिक परंपराएं",
+    "chapters": [
+      {
+        "id": "S22-Cbc82f40b",
+        "name_en": "Six Schools of Indian Philosophy (Shad-Darshanas) & Heterodox Systems",
+        "name_hi": "भारतीय षड्-दर्शन (सांख्य, योग, न्याय आदि) एवं श्रमण परंपराएं"
+      },
+      {
+        "id": "S22-C8e2684ea",
+        "name_en": "World Religions (Buddhism, Christianity, Islam) & Classical Myths",
+        "name_hi": "विश्व धर्म, पवित्र ग्रंथ एवं शास्त्रीय पौराणिक कथाएं"
+      }
+    ]
+  },
+  {
+    "id": "S23",
+    "code": "S23",
+    "name_en": "Global Currencies, Trade & Commerce",
+    "name_hi": "वैश्विक मुद्राएं, व्यापार एवं वित्तीय प्रणालियां",
+    "chapters": [
+      {
+        "id": "S23-C864e59f4",
+        "name_en": "Indian Currency: Legal Tender, Demonetization & RBI Security Features",
+        "name_hi": "भारतीय मुद्रा: वैध मुद्रा, विमुद्रीकरण एवं सुरक्षा विशेषताएं"
+      },
+      {
+        "id": "S23-C2d861ea1",
+        "name_en": "Major World Currencies, Central Banks & Foreign Exchange Reserves",
+        "name_hi": "विश्व की प्रमुख मुद्राएं, केंद्रीय बैंक एवं विदेशी मुद्रा भंडार"
+      },
+      {
+        "id": "S23-C16cbee79",
+        "name_en": "International Trade Agreements, Balance of Payments & WTO Norms",
+        "name_hi": "अंतर्राष्ट्रीय व्यापार समझौते, भुगतान संतुलन एवं डब्ल्यूटीओ"
+      }
+    ]
+  },
+  {
+    "id": "S24",
+    "code": "S24",
+    "name_en": "Defence Forces, Paramilitary & Security Apparatus",
+    "name_hi": "रक्षा बल, अर्धसैनिक बल एवं राष्ट्रीय सुरक्षा व्यवस्था",
+    "chapters": [
+      {
+        "id": "S24-Cf8311828",
+        "name_en": "Indian Army, Navy, Air Force: Commands, Ranks & Tri-Services CDS",
+        "name_hi": "भारतीय थल, नौ व वायु सेना: कमान संरचना, पद एवं सीडीएस"
+      },
+      {
+        "id": "S24-Cff6d924e",
+        "name_en": "Central Armed Police Forces (BSF, CRPF, ITBP, CISF) & Intelligence Agencies",
+        "name_hi": "सीएपीएफ (बीएसएफ, सीआरपीएफ, आईटीबीपी आदि) एवं गुप्तचर संस्थाएं (IB, RAW)"
+      }
+    ]
+  },
+  {
+    "id": "S25",
+    "code": "S25",
+    "name_en": "Visual & Identification GK",
+    "name_hi": "दृश्यात्मक एवं पहचान-आधारित सामान्य ज्ञान",
+    "chapters": [
+      {
+        "id": "S25-C92a15c80",
+        "name_en": "National Emblems, Official Seals, State Animal/Bird/Floral Symbols",
+        "name_hi": "राष्ट्रीय प्रतीक, राजकीय मुहरें, राज्य पशु/पक्षी/पुष्प"
+      },
+      {
+        "id": "S25-Cebd32d28",
+        "name_en": "Famous World & Indian Heritage Monuments, Architectural Icons",
+        "name_hi": "प्रसिद्ध विश्व एवं भारतीय स्मारक तथा स्थापत्य प्रतीक"
+      },
+      {
+        "id": "S25-Ce3c66b9e",
+        "name_en": "Flags, Logos of Multilateral Agencies & Banknote Obverse/Reverse Motifs",
+        "name_hi": "राष्ट्रीय ध्वज, अंतर्राष्ट्रीय संगठनों के प्रतीक एवं नोटों के रूपांकन"
+      }
+    ]
+  },
+  {
+    "id": "S26",
+    "code": "S26",
+    "name_en": "Metrology, SI Units, Physical Constants & Standard Measures",
+    "name_hi": "मापिकी, एसआई मात्रक, भौतिक नियतांक एवं मानक इकाइयां",
+    "chapters": [
+      {
+        "id": "S26-C2d838fe4",
+        "name_en": "The Seven Base SI Units, Defining Constants & Redefinition (2019)",
+        "name_hi": "सात मूल एसआई मात्रक, सार्वत्रिक नियतांक एवं 2019 की पुनर्परिभाषा"
+      },
+      {
+        "id": "S26-C41885f6d",
+        "name_en": "Derived SI Units with Special Names (Newton, Joule, Watt, Pascal)",
+        "name_hi": "विशेष नामों वाले व्युत्पन्न एसआई मात्रक (न्यूटन, जूल, वाट आदि)"
+      },
+      {
+        "id": "S26-Ce9261bae",
+        "name_en": "SI Decimal Prefixes (Quetta to Quecto) & Metric-Imperial Conversions",
+        "name_hi": "दशमलव उपसर्ग (क्वैटा से क्वेक्टो) एवं मीट्रिक रूपांतरण"
+      }
+    ]
+  }
+]
