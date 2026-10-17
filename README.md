@@ -1,5 +1,22 @@
 # Crorepati Revision V2 — checkpoint
 
+## ⬇️ Download the question bank
+
+**13,800 bilingual questions · 345 topics × 40 · 26 subjects · 82 chapters · 10 exam profiles**
+
+| Download | Size | Contents |
+| --- | ---: | --- |
+| [`kbc-40-per-topic-pack.zip`](public/downloads/kbc-40-per-topic-pack.zip) | 22 MB | Everything: all questions, 82 per-chapter files with 40 records per topic, 9 exam folders, 400 SI MCQs, SI-free preserved bank, syllabus index, reports, README |
+| [`kbc-40-per-topic-csv.zip`](public/downloads/kbc-40-per-topic-csv.zip) | 6 MB | Three CSVs: 13,800 questions, 400 SI MCQs, 1,895 preserved records |
+
+Open the file, then click **Download raw file** (the ⤓ button) on GitHub.
+
+Verified: 345 topics × exactly 40 questions, every SI-unit question converted to a
+left-question/right-options MCQ, zero SI records in the preserved bank, 9/9 acceptance
+checks passing. Full data map in [`GENERATION_REPORT.md`](GENERATION_REPORT.md).
+
+---
+
 ## One-Click Google Veo 3.1 Video Generation Workflow
 
 For generating native Google Veo 3.1 full-motion 32-second educational reels:
