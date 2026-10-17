@@ -1,0 +1,70 @@
+{
+  "mediaChecked": 3,
+  "approved": 3,
+  "sceneFailures": 0,
+  "approvedVideos": [
+    {
+      "topicId": "S01-C8994e811-T60e40ec2",
+      "model": "google/veo-3.1-fast",
+      "mediaPath": "/videos/S01-C8994e811-T60e40ec2.mp4",
+      "posterPath": "/videos/S01-C8994e811-T60e40ec2-poster.jpg",
+      "subtitlePath": "/videos/S01-C8994e811-T60e40ec2.vtt",
+      "transcriptPath": "/videos/S01-C8994e811-T60e40ec2-transcript.txt",
+      "durationSec": 30,
+      "size": 4391674,
+      "sha256": "382d9bc0adef651693df0d698207aef53c6d328b7e0d62cabad5729320c90645",
+      "resolution": "1280x720",
+      "factualAccuracyPass": true,
+      "visualRelevancePass": true,
+      "captionSyncPass": true,
+      "status": "APPROVED"
+    },
+    {
+      "topicId": "S08-C9270c63f-Te9c942c8",
+      "model": "google/veo-3.1-fast",
+      "mediaPath": "/videos/S08-C9270c63f-Te9c942c8.mp4",
+      "posterPath": "/videos/S08-C9270c63f-Te9c942c8-poster.jpg",
+      "subtitlePath": "/videos/S08-C9270c63f-Te9c942c8.vtt",
+      "transcriptPath": "/videos/S08-C9270c63f-Te9c942c8-transcript.txt",
+      "durationSec": 30,
+      "size": 4281558,
+      "sha256": "c6e6267241177175efd26c40e21c756434f83c356ce64962a103ff6d426481b6",
+      "resolution": "1280x720",
+      "factualAccuracyPass": true,
+      "visualRelevancePass": true,
+      "captionSyncPass": true,
+      "status": "APPROVED"
+    },
+    {
+      "topicId": "S03-Cf57dd5c3-T80b6a594",
+      "model": "google/veo-3.1-fast",
+      "mediaPath": "/videos/S03-Cf57dd5c3-T80b6a594.mp4",
+      "aliasPath": "/videos/palaeolithic-life-1080p.mp4",
+      "posterPath": "/videos/S03-Cf57dd5c3-T80b6a594-poster.jpg",
+      "subtitlePath": "/videos/S03-Cf57dd5c3-T80b6a594.vtt",
+      "transcriptPath": "/videos/S03-Cf57dd5c3-T80b6a594-transcript.txt",
+      "durationSec": 32,
+      "size": 52847233,
+      "sha256": "99a5061743812e9785536bc6cca8d987541e6ca5a0884c1c167a4a7dd0bdc442",
+      "resolution": "1920x1080",
+      "fps": 25,
+      "hasSpokenVoiceover": true,
+      "voiceLanguage": "hi",
+      "voiceModelId": "voice-00",
+      "motionProfile": "veo_3_1_fast_fluid_motion",
+      "dynamicEffects": [
+        "traveling_luminous_energy_pulses_on_arrows",
+        "turbulent_campfire_radial_lighting_flicker",
+        "sequential_object_highlight_pulses",
+        "golden_shimmer_wave_summary_banner",
+        "continuous_3d_camera_tracking_and_push_in"
+      ],
+      "factualAccuracyPass": true,
+      "visualRelevancePass": true,
+      "captionSyncPass": true,
+      "memoryCardsRulePass": true,
+      "status": "APPROVED"
+    }
+  ],
+  "status": "VIDEOS_APPROVED"
+}

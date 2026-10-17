@@ -1,0 +1,84 @@
+{
+  "status": "B07 CANDIDATE_BATCH_COMPLETE; 5,016 verified preserved; 6000 pending-human-review questions; 3000 new in this batch",
+  "updatedAt": "2026-10-07T14:53:48.032Z",
+  "workspace": "/home/harsh/CrorePati_Revision_V2_Work",
+  "dDrive": {
+    "mount": "/mnt/d",
+    "projectRoot": "/mnt/d/crorepati revision v2",
+    "deliverables": "/mnt/d/crorepati revision v2/deliverables",
+    "rescueBackup": "/mnt/d/crorepati revision v2/deliverables/CROREPATI_RESCUE_20261005",
+    "verifiedAccessible": true
+  },
+  "lastSafePublication": {
+    "batch": "B06E",
+    "chunkIndex": 15,
+    "chunkSize": 1,
+    "selectedFacts": 1,
+    "cumulativeFacts": 16,
+    "totalQuestions": 5016,
+    "totalFactCards": 4985,
+    "sources": 34,
+    "topicsWithQuestions": 32,
+    "reviewer": "SINGH",
+    "decision": "ACCEPT",
+    "seal": "reports/B06_PUBLISHED_5016.json",
+    "checks": "reports/B06_CHECKS_5016.json",
+    "progressLedger": "reports/B06_PROGRESS.json",
+    "baseline": "reports/B06_BASELINE_5000.json",
+    "priorSeal": "reports/B06_PUBLISHED_5015.json",
+    "preservation": "PASS",
+    "priorRecoveryBaseline": "D:\\crorepati revision v2\\deliverables\\Crorepati_Revision_V2_FINAL_5000.zip"
+  },
+  "exactResumeStep": "B07 has 6000 pending-review questions saved in chunk-*.json. Review source context, answers, distractors, Hindi language and semantic novelty using REVIEW_PACKET.md before publication. No reviewer metadata exists or may be invented. Existing 8016 written questions are preserved; this batch added 3000 pending questions.",
+  "finalization": {
+    "pipelineValidation": "PASS",
+    "nodeTests": "PASS: 33 passed, 0 failed, 0 skipped",
+    "productionBuild": "PASS: tsc, Vite 1,602 modules, service worker ba894ac0dff8",
+    "zip": "D:\\crorepati revision v2\\deliverables\\Crorepati_Revision_V2_FINAL_5000.zip",
+    "zipVerification": "PASS: CRC, required entries, forbidden-entry scan, embedded counts and unzip -t",
+    "latestBatchCheckpoint": "D:\\crorepati revision v2\\deliverables\\Crorepati_Revision_V2_CHECKPOINT_REVIEWED_5016_V2.zip",
+    "gapAssessment": "reports/B06_GAP_ASSESSMENT.md",
+    "twentyKBlockerReport": "reports/20K_BLOCKER_REPORT.md",
+    "independentReviewBlocker": "reports/INDEPENDENT_REVIEW_BLOCKER.md",
+    "progressReport": "reports/PROGRESS_20000.md",
+    "completionStatus": "BLOCKED_BEFORE_20000",
+    "nextBatchPolicy": {
+      "maxNewQuestions": 3000,
+      "progressEvery": 1000,
+      "progressSlots": 3,
+      "status": "B07_CANDIDATE_BATCH_COMPLETE_REVIEW_PENDING",
+      "publicationRequiresHumanReview": true
+    },
+    "latestContentCheckpoint": "D:\\crorepati revision v2\\deliverables\\Crorepati_Revision_V2_CHECKPOINT_20261007T142200125910Z.zip"
+  },
+  "truthfulness": [
+    "Translations and restatements are not counted as separate questions.",
+    "No incomplete FactCard is labeled verified.",
+    "No unsupported source, current-affairs item, actual PYQ, video, deployment, or expert audit is claimed."
+  ],
+  "activeContentBatch": {
+    "batch": "B07N",
+    "status": "CANDIDATE_BATCH_COMPLETE",
+    "sourceId": "NIST-CSRC-GLOSSARY-20261006",
+    "verifiedQuestions": 5016,
+    "newVerifiedQuestions": 0,
+    "pendingHumanReviewQuestions": 6000,
+    "totalWrittenQuestions": 11016,
+    "newQuestionsThisBatch": 3000,
+    "batchStartPending": 3000,
+    "batchStartWritten": 8016,
+    "chunkSize": 1000,
+    "maximumNewQuestions": 3000,
+    "completedChunks": 3,
+    "cumulativeSavedChunks": 6,
+    "progressLedger": "reports/B07_PROGRESS.json",
+    "preservationBaseline": "reports/B07_BASELINE_8016.json",
+    "sourceSnapshot": "content-pipeline/source-cache/NIST-CSRC-GLOSSARY-20261006.export.json.gz",
+    "sourceSnapshotSha256": "59403a75c3a8e07a58536325caeda86ca2e2a690b482fec268cc2511eca936f2",
+    "sourcePoolSizes": {
+      "definitions": 323,
+      "abbreviations": 3273
+    },
+    "canonicalPreservation": "PASS"
+  }
+}

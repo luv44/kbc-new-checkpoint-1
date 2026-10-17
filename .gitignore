@@ -1,0 +1,17 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.env*
+!.env.example
+*.tsbuildinfo
+deliverables/
+.firebase/
+media/raw/
+__pycache__/
+*.pyc
+
+*.zip
+
+user-data/
+.syllabus-build.mjs

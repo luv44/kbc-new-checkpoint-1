@@ -1,0 +1,10 @@
+{
+  "build": "TypeScript and production build passed",
+  "automated_checks": 9,
+  "http_integration": "Generated MCQ visible through same-app topic API, preserved bank, saved chapter and ZIP; mock local Ollama used",
+  "browser_preview": "Blocked by environment socket permission; no visual pass claimed",
+  "windows_ollama_hardware": "Not executed here",
+  "source_archive": "Crorepati_Live_2026(1).zip",
+  "active_preserved_questions": 13970,
+  "starter_questions": 929
+}

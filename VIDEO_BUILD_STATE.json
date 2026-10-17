@@ -1,0 +1,36 @@
+{
+  "phase": "VEO_VIDEOS_PRODUCED_AND_APPROVED",
+  "required": 345,
+  "promptReady": 2,
+  "blocked": 340,
+  "submitted": 3,
+  "generated": 3,
+  "approved": 3,
+  "publishedTopics": [
+    {
+      "topicId": "S01-C8994e811-T60e40ec2",
+      "name": "Geographical Coordinates, Latitudinal & Longitudinal Extent of India",
+      "model": "google/veo-3.1-fast",
+      "mediaUrl": "/videos/S01-C8994e811-T60e40ec2.mp4",
+      "durationSec": 30,
+      "resolution": "1280x720"
+    },
+    {
+      "topicId": "S08-C9270c63f-Te9c942c8",
+      "name": "Interior Structure of the Earth: Crust, Mantle, Asthenosphere & Core",
+      "model": "google/veo-3.1-fast",
+      "mediaUrl": "/videos/S08-C9270c63f-Te9c942c8.mp4",
+      "durationSec": 30,
+      "resolution": "1280x720"
+    },
+    {
+      "topicId": "S03-Cf57dd5c3-T80b6a594",
+      "name": "Palaeolithic Life: Prehistoric Rock Art & Sites (पुरापाषाण काल में मानव कैसे रहता था?)",
+      "model": "google/veo-3.1-fast",
+      "mediaUrl": "/videos/S03-Cf57dd5c3-T80b6a594.mp4",
+      "durationSec": 32,
+      "resolution": "1920x1080"
+    }
+  ],
+  "next": "Continue generating videos across next syllabus topics."
+}
