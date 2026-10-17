@@ -416,16 +416,23 @@ export function exportChapters(corpus, active) {
           chapter: { id: chapter.id, en: chapter.title, hi: chapter.titleHindi },
           targetPerTopic: TARGET,
           counts: { topics: topics.length, questions: questions.length },
-          topics: topics.map((topic) => ({
-            id: topic.id,
-            title: { en: topic.en, hi: topic.hi },
-            target: TARGET,
-            status: (byTopic.get(topic.id)?.length || 0) >= TARGET ? 'COMPLETE' : 'IN_PROGRESS',
-            questionIds: (byTopic.get(topic.id) || []).map((question) => question.id),
-          })),
+          topics: topics.map((topic) => {
+            const topicQuestions = byTopic.get(topic.id) || [];
+            const row = {
+              id: topic.id,
+              title: { en: topic.en, hi: topic.hi },
+              target: TARGET,
+              count: topicQuestions.length,
+              status: topicQuestions.length >= TARGET ? 'COMPLETE' : 'IN_PROGRESS',
+              questionIds: topicQuestions.map((question) => question.id),
+            };
+            // The `all/` set is the canonical per-chapter delivery: every topic
+            // carries its own 40 full question records.
+            if (exam.id === 'all') row.questions = topicQuestions;
+            return row;
+          }),
         };
-        if (exam.id === 'all') payload.questions = questions;
-        else payload.questionsFile = `../../all/${subject.id}/${chapter.id}.json`;
+        if (exam.id !== 'all') payload.questionsFile = `../../all/${subject.id}/${chapter.id}.json`;
         writeJson(path.join(dir, `${chapter.id}.json`), payload);
         files += 1;
         records += questions.length;
