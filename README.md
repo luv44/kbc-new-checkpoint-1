@@ -6,10 +6,13 @@
 
 | Download | Size | Contents |
 | --- | ---: | --- |
-| [`kbc-40-per-topic-pack.zip`](public/downloads/kbc-40-per-topic-pack.zip) | 22 MB | Everything: all questions, 82 per-chapter files with 40 records per topic, 9 exam folders, 400 SI MCQs, SI-free preserved bank, syllabus index, reports, README |
-| [`kbc-40-per-topic-csv.zip`](public/downloads/kbc-40-per-topic-csv.zip) | 6 MB | Three CSVs: 13,800 questions, 400 SI MCQs, 1,895 preserved records |
+| [`kbc-40-per-topic-pack.zip`](public/downloads/kbc-40-per-topic-pack.zip) | 38 MB | **Start here.** 749 files: `START-HERE.html` + a browser reader for all 13,800 questions (26 subject pages, answers in expandable blocks), 3 master CSVs + 26 per-subject + 5 per-exam CSVs, the full bank as JSON, 82 per-chapter JSON files (40 questions inline per topic), 591 per-exam JSON files, 400 SI MCQs in left-question/right-options layout, 1,895 SI-free preserved records, syllabus index, reports, `MANIFEST.txt`, `CHECK-REPORT.md` |
+| [`kbc-40-per-topic-csv.zip`](public/downloads/kbc-40-per-topic-csv.zip) | 18 MB | Spreadsheets only: 13,800 questions, 400 SI MCQs, 1,895 preserved records, plus all per-subject and per-exam CSVs |
 
-Open the file, then click **Download raw file** (the ⤓ button) on GitHub.
+Or open the GitHub file page and click **Download raw file** (the ⤓ button):
+[pack.zip](https://github.com/luv44/kbc-new-checkpoint-1/blob/arena/b94e353a-kbc-new-checkpoint-1/public/downloads/kbc-40-per-topic-pack.zip) ·
+[csv.zip](https://github.com/luv44/kbc-new-checkpoint-1/blob/arena/b94e353a-kbc-new-checkpoint-1/public/downloads/kbc-40-per-topic-csv.zip).
+Unzip it and double-click **START-HERE.html** — no app, no server, no internet needed.
 
 Verified: 345 topics × exactly 40 questions, every SI-unit question converted to a
 left-question/right-options MCQ, zero SI records in the preserved bank, 9/9 acceptance

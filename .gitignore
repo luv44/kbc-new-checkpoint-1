@@ -26,3 +26,6 @@ public/data/preserved-bank.json.gz
 public/data/si-unit-mcqs.json
 public/data/si-unit-mcqs.json.gz
 public/data/si-unit-mcqs.md
+
+# Local pack staging area (regenerate with `npm run pack:all`)
+build/
